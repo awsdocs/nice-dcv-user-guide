@@ -20,9 +20,7 @@ The Linux client must be able to connect to the NICE DCV server\. It must also b
 
 The Linux client has the following limitations:
 + It does not support USB remotization\.
-+ It cannot upload or download files to or from session storage\.
 + It does not support audio\.
-+ It does not support printing\.
 
 ## Installing the Linux Client<a name="client-linux-install"></a>
 
@@ -56,42 +54,42 @@ The Linux client is installed on a Linux client computer using a software packag
    + RHEL 7\.x and CentOS 7\.x
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/client/nice-dcv-viewer-2017.1.version.el7.x86_64.rpm
+     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/client/nice-dcv-viewer-2017.4.version.el7.x86_64.rpm
      ```
    + SUSE Linux Enterprise 12\.x
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/client/nice-dcv-viewer-2017.1.version.sles12.x86_64.rpm
+     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/client/nice-dcv-viewer-2017.4.version.sles12.x86_64.rpm
      ```
    + Ubuntu 16\.04
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/client/nice-dcv-viewer_2017.1.version_amd64.ubuntu1604.deb
+     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/client/nice-dcv-viewer_2017.4.version_amd64.ubuntu1604.deb
      ```
    + Ubuntu 18\.04
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/client/nice-dcv-viewer_2017.version_amd64.ubuntu1804.deb
+     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/client/nice-dcv-viewer_2017.4.version_amd64.ubuntu1804.deb
      ```
 
 1. Install the Linux client\.
    + RHEL 7\.x and CentOS 7\.x
 
      ```
-     $  sudo yum install nice-dcv-viewer-2017.1.version.el7.x86_64.rpm
+     $  sudo yum install nice-dcv-viewer-2017.4.version.el7.x86_64.rpm
      ```
    + SUSE Linux Enterprise 12\.x
 
      ```
-     $  sudo zypper install nice-dcv-viewer-2017.1.version.sles12.x86_64.rpm
+     $  sudo zypper install nice-dcv-viewer-2017.4.version.sles12.x86_64.rpm
      ```
    + Ubuntu 16\.04
 
      ```
-     $  sudo dpkg --install nice-dcv-viewer_2017.1.version_amd64.ubuntu1604.deb
+     $  sudo dpkg --install nice-dcv-viewer_2017.4.version_amd64.ubuntu1604.deb
      ```
    + Ubuntu 18\.04
 
      ```
-     $  sudo dpkg --install nice-dcv-viewer_2017.1.version_amd64.ubuntu1804.deb
+     $  sudo dpkg --install nice-dcv-viewer_2017.4.version_amd64.ubuntu1804.deb
      ```

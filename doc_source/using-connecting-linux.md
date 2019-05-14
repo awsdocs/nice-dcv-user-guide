@@ -1,4 +1,4 @@
-# Connecting to a NICE DCV Session using the Linux Client<a name="using-connecting-linux"></a>
+# Connecting to a NICE DCV Session Using the Linux Client<a name="using-connecting-linux"></a>
 
 The steps for connecting to a NICE DCV session are the same across all Linux clients\.
 
@@ -9,8 +9,8 @@ The steps for connecting to a NICE DCV session are the same across all Linux cli
 1. Choose **Connections Settings**, configure your proxy settings as follows, and then choose **Apply**\.
    + To avoid connecting through a proxy, choose **Connect directly**\.
    + To connect to the NICE DCV server using your preconfigured operating system proxy settings, choose **Use system proxy**\.
-   + To connect to the NICE DCV server through a specific HTTP proxy server, choose **Get through web proxy \(HTTP\)**\. Specify the proxy server's host name or IP address, and communication port\. If the HTTP proxy server requires authentication, select the **Proxy server requiring password** check box and provide your user name and password\.
-   + To connect to the NICE DCV server through a specific HTTPS proxy server, choose **Get through web proxy \(HTTPS\)**\. Specify the proxy server's host name or IP address, and communication port\. If the web proxy server requires authentication, select the **Proxy server requiring password** check box and provide your user name and password\.
+   + To connect to the NICE DCV server through a specific HTTP proxy server, choose **Get through web proxy \(HTTP\)**\. Specify the proxy server's hostname or IP address, and communication port\. If the HTTP proxy server requires authentication, select the **Proxy server requiring password** check box and provide your user name and password\.
+   + To connect to the NICE DCV server through a specific HTTPS proxy server, choose **Get through web proxy \(HTTPS\)**\. Specify the proxy server's hostname or IP address, and communication port\. If the web proxy server requires authentication, select the **Proxy server requiring password** check box and provide your user name and password\.
 
 1. Specify the session details in the following format:
 
@@ -18,7 +18,7 @@ The steps for connecting to a NICE DCV session are the same across all Linux cli
    server_hostname_or_IP:port#session_id
    ```
 
-   For example, the following connects to a session named `my-session`, which is hosted on a NICE DCV server with the host name `my-dcv-server.com`, over port `8443`:
+   For example, the following connects to a session named `my-session`, which is hosted on a NICE DCV server with the hostname `my-dcv-server.com`, over port `8443`:
 
    ```
    my-dcv-server.com:8443#my-session

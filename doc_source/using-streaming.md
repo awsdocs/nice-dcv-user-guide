@@ -1,8 +1,8 @@
 # Managing Streaming Modes<a name="using-streaming"></a>
 
-NICE DCV uses an adaptive protocol that automatically optimizes the streaming mode depending on the network capabilities\. However, you can specify whether you prefer to prioritize responsiveness or image quality\. Prioritizing responsiveness reduces the image quality to improve the framerate, while prioritizing image quality reduces the responsiveness to provide better image quality\.
+NICE DCV uses an adaptive protocol that automatically optimizes the streaming mode depending on the network capabilities\. However, you can specify whether you prefer to prioritize responsiveness or image quality\. Prioritizing responsiveness reduces the image quality to improve the frame rate\. Prioritizing image quality reduces the responsiveness to provide better image quality\.
 
-This functionality is available on the Windows client, web browser client, and Linux client and the steps for setting the streaming mode are the same across all clients\.
+This functionality is available on the Windows client, web browser client, Linux client, and macOS client, and the steps for setting the streaming mode are the same across all clients\.
 
 **To change the streaming mode**
 

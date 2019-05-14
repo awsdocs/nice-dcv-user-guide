@@ -3,7 +3,7 @@
 NICE DCV enables you to use specialized USB devices, such as 3D pointing devices and graphic tablets, which are physically connected to your computer to interact with an application running on a NICE DCV server\.
 
 **Note**  
-USB remotization is only supported with the installable Windows client\. It is not supported with the portable Windows client, web browser client, or Linux client\. Additional configuration might be required on the NICE DCV server\. For more information, see [Enabling USB Remotization](https://docs.aws.amazon.com/dcv/latest/adminguide/manage-usb-remote.html) in the *NICE DCV Administrator Guide*\.
+USB remotization is only supported with the installable Windows client\. It is not supported with the portable Windows client, web browser client, Linux client, or macOS client\. Additional configuration might be required on the NICE DCV server\. For more information, see [Enabling USB Remotization](https://docs.aws.amazon.com/dcv/latest/adminguide/manage-usb-remote.html) in the *NICE DCV Administrator Guide*\.
 
 Most commonly used USB devices are supported by default\. This enables you to connect a USB device to your computer and use it on the server without any additional configuration\. To use a USB device, connect it to your computer, in the client choose **Settings**, and then move the slider next to the USB device in the list\.
 

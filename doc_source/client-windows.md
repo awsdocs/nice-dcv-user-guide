@@ -16,8 +16,9 @@ The Windows client is supported on 32\-bit and 64\-bit versions of the following
 + Windows 8\.1
 + Windows 10
 
-**Note**  
-Clients require \.NET Framework 4\.5\.
+The client also requires the following additional software:
++ \.NET Framework 4\.6\.2
++ Microsoft Visual C\+\+ Redistributable for Visual Studio\. For more information and download instructions, see the [ Microsoft Support](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) website\.
 
 The client must be able to connect to the NICE DCV server\. It must also be able to communicate over the required port \(8443 by default\)\.
 
@@ -31,7 +32,7 @@ The client can be installed using an installation wizard\. The wizard walks you 
 
 1. Download the Windows client installer from the [NICE website](https://www.nice-software.com/download/nice-dcv-2017)\.
 
-1. Run `nice-dcv-client-Release-2017.0-version.msi`\.
+1. Run `nice-dcv-client-Release-2017.4-version.msi`\.
 
 1. On the **Welcome** screen, choose **Next**\.
 
@@ -54,7 +55,7 @@ Using specialized USB devices requires additional client and server configuratio
 1. Execute the unattended installer\.
 
    ```
-   C:\> msiexec.exe /i nice-dcv-client-Release-2017.0-version_number.msi /quiet /norestart /l*v dcv_client_install_msi.log
+   C:\> msiexec.exe /i nice-dcv-client-Release-2017.4-version.msi /quiet /norestart /l*v dcv_client_install_msi.log
    ```
 
 ## Portable Windows Client<a name="client-windows-portable"></a>

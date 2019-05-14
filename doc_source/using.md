@@ -10,4 +10,4 @@ After you have chosen your preferred NICE DCV client, you can use it to connect 
 + [Copying and Pasting](using-copy-paste.md)
 + [Using a Smart Card](using-smartcard.md)
 + [Using USB Remotization](using-usb.md)
-+ [Creating a Connection Shortcut](using-shortcut.md)
++ [Using a Connection File](using-connection-file.md)

@@ -2,7 +2,7 @@
 
 NICE DCV lets you copy and paste text between your local computer and the NICE DCV session\. You must be authorized to use this feature\. If you are not authorized, the functionality is not available in the client\.
 
-The type of content that can be copied and pasted, and the methods for copying and pasting differ between the Windows client, web browser client, and Linux client\.
+The type of content that can be copied and pasted, and the methods for copying and pasting differ between the Windows client, web browser client, Linux client, and macOS client\.
 
 ## Copying and Pasting with the Windows and Linux Clients<a name="using-copy-paste-windows-linux"></a>
 

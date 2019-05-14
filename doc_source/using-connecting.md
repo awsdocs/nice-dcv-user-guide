@@ -8,3 +8,4 @@ If you are connecting to a console session, contact your NICE DCV server adminis
 + [Connecting using the Windows Client](using-connecting-win.md)
 + [Connecting using the Web Browser](using-connecting-browser-connect.md)
 + [Connecting using the Linux Client](using-connecting-linux.md)
++ [Connecting using the macOS Client](using-connecting-mac.md)
