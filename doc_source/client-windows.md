@@ -18,7 +18,7 @@ The Windows client is supported on 32\-bit and 64\-bit versions of the following
 
 The client also requires the following additional software:
 + \.NET Framework 4\.6\.2
-+ Microsoft Visual C\+\+ Redistributable for Visual Studio\. For more information and download instructions, see the [ Microsoft Support](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) website\.
++ Microsoft Visual C\+\+ Redistributable for Visual Studio 2015, 2017, and 2019\. For more information and download instructions, see the [ Microsoft Support](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) website\.
 
 The client must be able to connect to the NICE DCV server\. It must also be able to communicate over the required port \(8443 by default\)\.
 
