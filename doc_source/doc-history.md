@@ -1,8 +1,6 @@
 # Document History for NICE DCV<a name="doc-history"></a>
 
-The following table describes the documentation for this release of NICE Desktop Cloud Visualization\.
-+ **API version: latest**
-+ **Latest documentation update:** June 25, 2019
+The following table describes the documentation for this release of \.
 
 
 ****  

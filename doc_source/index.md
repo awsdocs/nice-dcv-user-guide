@@ -1,4 +1,4 @@
-# NICE Desktop Cloud Visualization User Guide
+# NICE DCV User Guide
 
 -----
 *****Copyright &copy; 2019 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****

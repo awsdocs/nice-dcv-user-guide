@@ -30,9 +30,9 @@ The client can be installed using an installation wizard\. The wizard walks you 
 
 **To install the Windows client using the installation wizard**
 
-1. Download the Windows client installer from the [NICE website](https://www.nice-software.com/download/nice-dcv-2017)\.
+1. Download the Windows client installer from the [NICE website](http://download.nice-dcv.com)\.
 
-1. Run `nice-dcv-client-Release-2017.4-version.msi`\.
+1. Run `nice-dcv-client-Release-2019.1-version.msi`\.
 
 1. On the **Welcome** screen, choose **Next**\.
 
@@ -48,14 +48,14 @@ Using specialized USB devices requires additional client and server configuratio
 
 **To install the Windows client using an unattended installation**
 
-1. Download the Windows client installer from the [NICE](https://www.nice-software.com/download/nice-dcv-2017) website\.
+1. Download the Windows client installer from the [NICE](http://download.nice-dcv.com) website\.
 
 1. Open a command prompt window and navigate to the folder where you downloaded the installer\.
 
-1. Execute the unattended installer\.
+1. Run the unattended installer\.
 
    ```
-   C:\> msiexec.exe /i nice-dcv-client-Release-2017.4-version.msi /quiet /norestart /l*v dcv_client_install_msi.log
+   C:\> msiexec.exe /i nice-dcv-client-Release-2019.1-version.msi /quiet /norestart /l*v dcv_client_install_msi.log
    ```
 
 ## Portable Windows Client<a name="client-windows-portable"></a>
@@ -64,7 +64,7 @@ The Windows client is also available in portable version\. The portable Windows 
 
 **To use the portable Windows client**
 
-1. Download the portable Windows client zip file from the [NICE](https://www.nice-software.com/download/nice-dcv-2017) website\.
+1. Download the portable Windows client zip file from the [NICE](http://download.nice-dcv.com) website\.
 
 1. Extract the contents of the zip file\.
 

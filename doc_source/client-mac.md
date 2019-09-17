@@ -19,8 +19,6 @@ The macOS client must be able to connect to the NICE DCV server\. It must also b
 
 The macOS client has the following limitations:
 + It does not support USB remotization\.
-+ It does not support audio\.
-+ It does not support smart card functionality\.
 
 ## Installing the macOS Client<a name="client-mac-install"></a>
 
@@ -28,7 +26,7 @@ To use the macOS client on your computer, you must first install it\.
 
 **To install the macOS client**
 
-1. Download the macOS client installer from the [NICE website](https://www.nice-software.com/download/nice-dcv-2017)\.
+1. Download the macOS client installer from the [NICE website](http://download.nice-dcv.com)\.
 
 1. Run the downloaded `.dmg`file\.
 

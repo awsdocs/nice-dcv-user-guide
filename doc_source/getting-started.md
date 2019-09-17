@@ -1,6 +1,6 @@
 # Getting Started with NICE DCV<a name="getting-started"></a>
 
-NICE Desktop Cloud Visualization is a remote visualization technology that enables users to securely connect to graphic\-intensive 3D applications hosted on a remote high\-performance server\. With NICE DCV, you can make a server's high\-performance graphics processing capabilities available to multiple remote users by creating secure client sessions\. This enables your users to use resource\-intensive applications with relatively low\-end client computers by using the server's processor, GPU, I/O capabilities, and memory\.
+NICE DCV is a remote visualization technology that enables users to securely connect to graphic\-intensive 3D applications hosted on a remote high\-performance server\. With NICE DCV, you can make a server's high\-performance graphics processing capabilities available to multiple remote users by creating secure client sessions\. This enables your users to use resource\-intensive applications with relatively low\-end client computers by using the server's processor, GPU, I/O capabilities, and memory\.
 
 In a typical NICE DCV scenario, a graphic\-intensive application, such as a 3D modeling or computer\-aided design application, is hosted on a high\-performance server that provides a high\-end GPU, fast I/O capabilities, and large amounts of memory\. The **NICE DCV server** software is installed and configured on the server and it is used to create a secure session\. You use a **NICE DCV client** to remotely connect to the session and use the application hosted on the server\. The server uses its hardware to perform the high\-performance processing required by the hosted application\. The **NICE DCV server** software compresses the visual output of the hosted application and streams it back to you as an encrypted pixel stream\. Your **NICE DCV client** receives the compressed pixel stream, decrypts it, and then outputs it to your local display\.
 
@@ -22,6 +22,7 @@ Next, choose the NICE DCV client that best meets your needs\. NICE DCV offers th
 + A native Windows client
 + A web browser client
 + A Linux client
++ A macOS client
 
 For more information about the available clients, see [NICE DCV Clients](client.md)\.
 

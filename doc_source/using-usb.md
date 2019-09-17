@@ -19,6 +19,6 @@ However, some specialized USB devices are not supported by default\. Unsupported
 
 1. Open the context \(right\-click\) menu for the USB device in the list, choose **Copy filter string**, and then send the filter string to your NICE DCV server administrator\.
 **Note**  
-The NICE DCV server administrator adds each USB device's filter string to the whitelist\. For more information, see [Enabling USB Remotization](https://docs.aws.amazon.com/dcv/latest/adminguide/manage-usb-remote.html) in the *NICE Desktop Cloud Visualization Administrator Guide*\.
+The NICE DCV server administrator adds each USB device's filter string to the whitelist\. For more information, see [Enabling USB Remotization](https://docs.aws.amazon.com/dcv/latest/adminguide/manage-usb-remote.html) in the *NICE DCV Administrator Guide*\.
 
 1. After the device has been whitelisted on the NICE DCV server, choose **Settings** and move the slider next to the USB device to use it\.
