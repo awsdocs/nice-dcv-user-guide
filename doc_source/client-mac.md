@@ -26,7 +26,7 @@ To use the macOS client on your computer, you must first install it\.
 
 **To install the macOS client**
 
-1. Download the macOS client installer from the [NICE website](http://download.nice-dcv.com)\.
+1. Download the [macOS client installer](https://d1uj6qtbmh3dt5.cloudfront.net/2019.1/Clients/nice-dcv-viewer-2019.1.1535.dmg)\.
 
 1. Run the downloaded `.dmg`file\.
 
