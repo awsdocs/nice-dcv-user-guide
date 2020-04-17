@@ -9,8 +9,8 @@ The steps for connecting to a NICE DCV session are the same for the installable 
 1. Choose **Connections Settings**, configure your proxy settings as follows, and then choose **OK**\.
    + To avoid connecting through a proxy, choose **Connect Directly**\.
    + To connect to the NICE DCV server using your preconfigured operating system proxy settings, choose **Use system proxy**\.
-   + To connect to the NICE DCV server through a specific HTTP proxy server, choose **Get through web proxy**\. Specify the proxy server's hostname or IP address, and communication port\. If the HTTP proxy server requires authentication, select the **Proxy server requiring password** check box and provide your user name and password\.
-   + To connect to the NICE DCV server through a specific SOCKS5 proxy server, choose **Get through SOCKSv5 proxy**\. Specify the proxy server's hostname or IP address, and communication port\. If the SOCKSv5 proxy server requires authentication, select the **Proxy server requiring password** check box and provide your user name and password\.
+   + To connect to the NICE DCV server through a specific HTTP proxy server, choose **Get through web proxy**\. Specify the proxy server's hostname or IP address and communication port\. If the HTTP proxy server requires authentication, select the **Proxy server requiring password** check box and enter your user name and password\.
+   + To connect to the NICE DCV server through a specific SOCKS5 proxy server, choose **Get through SOCKSv5 proxy**\. Specify the proxy server's hostname or IP address and communication port\. If the SOCKSv5 proxy server requires authentication, select the **Proxy server requiring password** check box and enter your user name and password\.
 
 1. Specify the session details in the following format:
 

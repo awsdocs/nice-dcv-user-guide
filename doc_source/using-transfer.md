@@ -1,10 +1,10 @@
 # Transferring Files<a name="using-transfer"></a>
 
-NICE DCV enables you to upload files to and download files from NICE DCV session storage\. For more information about enabling and configuring session storage, see [Enabling Session Storage](https://docs.aws.amazon.com/dcv/latest/adminguide/manage-storage.html) in the NICE DCV Administrator Guide\.
+NICE DCV enables you to upload files to and download files from NICE DCV session storage\. For more information about enabling and configuring session storage, see [Enabling Session Storage](https://docs.aws.amazon.com/dcv/latest/adminguide/manage-storage.html) in the *NICE DCV Administrator Guide*\.
 
 You must be authorized to use this feature\. If you are not authorized, the functionality is not available in the client\.
 
-This functionality is available on the Windows, web browser, Linux and macOS clients, and the steps for uploading, downloading, and renaming files are similar on all clients\.
+This functionality is available on the Windows, web browser, Linux and macOS clients\. The steps for uploading, downloading, and renaming files are similar on all clients\.
 
 **Topics**
 + [Downloading a File](#using-transfer-download)

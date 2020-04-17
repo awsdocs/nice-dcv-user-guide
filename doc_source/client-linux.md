@@ -23,7 +23,7 @@ The Linux client does not support USB remotization\.
 
 ## Installable Linux Client<a name="client-linux-install"></a>
 
-The installable Linux client is installed on a Linux client computer using a software package\. The software package installs all required packages and their dependencies, and performs the necessary client configuration\.
+The installable Linux client is installed on a Linux client computer using a software package\. The software package installs all required packages and their dependencies, and performs the required client configuration\.
 
 **To install the Linux client**
 
@@ -51,42 +51,42 @@ The installable Linux client is installed on a Linux client computer using a sof
    + Amazon Linux 2, RHEL 7\.x, and CentOS 7\.x
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2019.1/Clients/nice-dcv-viewer-2019.1.1124-1.el7.x86_64.rpm
+     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2020.0/Clients/nice-dcv-viewer-2020.0.1352-1.el7.x86_64.rpm
      ```
    + SUSE Linux Enterprise 12\.x
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2019.1/Clients/nice-dcv-viewer-2019.1.1124-1.sles12.x86_64.rpm
+     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2020.0/Clients/nice-dcv-viewer-2020.0.1352-1.sles12.x86_64.rpm
      ```
    + Ubuntu 16\.04
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2019.1/Clients/nice-dcv-viewer_2019.1.1124-1_amd64.ubuntu1604.deb
+     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2020.0/Clients/nice-dcv-viewer_2020.0.1352-1_amd64.ubuntu1604.deb
      ```
    + Ubuntu 18\.04
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2019.1/Clients/nice-dcv-viewer_2019.1.1124-1_amd64.ubuntu1804.deb
+     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2020.0/Clients/nice-dcv-viewer_2020.0.1352-1_amd64.ubuntu1804.deb
      ```
 
 1. Install the Linux client\.
    + Amazon Linux 2, RHEL 7\.x, and CentOS 7\.x
 
      ```
-     $  sudo yum install nice-dcv-viewer-2019.1.1124-1.el7.x86_64.rpm
+     $  sudo yum install nice-dcv-viewer-2020.0.1352-1.el7.x86_64.rpm
      ```
    + SUSE Linux Enterprise 12\.x
 
      ```
-     $  sudo zypper install nice-dcv-viewer-2019.1.1124-1.sles12.x86_64.rpm
+     $  sudo zypper install nice-dcv-viewer-2020.0.1352-1.sles12.x86_64.rpm
      ```
    + Ubuntu 16\.04
 
      ```
-     $  sudo dpkg --install nice-dcv-viewer_2019.1.1124-1_amd64.ubuntu1604.deb
+     $  sudo dpkg --install nice-dcv-viewer_2020.0.1352-1_amd64.ubuntu1604.deb
      ```
    + Ubuntu 18\.04
 
      ```
-     $  sudo dpkg --install nice-dcv-viewer_2019.1.1124-1_amd64.ubuntu1804.deb
+     $  sudo dpkg --install nice-dcv-viewer_2020.0.1352-1_amd64.ubuntu1804.deb
      ```

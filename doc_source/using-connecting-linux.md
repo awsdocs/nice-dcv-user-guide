@@ -9,8 +9,8 @@ The steps for connecting to a NICE DCV session are the same across all Linux cli
 1. Choose **Connections Settings**, configure your proxy settings as follows, and then choose **Apply**\.
    + To avoid connecting through a proxy, choose **Connect directly**\.
    + To connect to the NICE DCV server using your preconfigured operating system proxy settings, choose **Use system proxy**\.
-   + To connect to the NICE DCV server through a specific HTTP proxy server, choose **Get through web proxy \(HTTP\)**\. Specify the proxy server's hostname or IP address, and communication port\. If the HTTP proxy server requires authentication, select the **Proxy server requiring password** check box and provide your user name and password\.
-   + To connect to the NICE DCV server through a specific HTTPS proxy server, choose **Get through web proxy \(HTTPS\)**\. Specify the proxy server's hostname or IP address, and communication port\. If the web proxy server requires authentication, select the **Proxy server requiring password** check box and provide your user name and password\.
+   + To connect to the NICE DCV server through a specific HTTP proxy server, choose **Get through web proxy \(HTTP\)**\. Specify the proxy server's hostname or IP address, and communication port\. If the HTTP proxy server requires authentication, select the **Proxy server requiring password** check box and enter your user name and password\.
+   + To connect to the NICE DCV server through a specific HTTPS proxy server, choose **Get through web proxy \(HTTPS\)**\. Specify the proxy server's hostname or IP address, and communication port\. If the web proxy server requires authentication, select the **Proxy server requiring password** check box and enter your user name and password\.
 
 1. Specify the session details in the following format:
 

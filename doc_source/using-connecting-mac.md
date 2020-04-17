@@ -1,16 +1,16 @@
-# Connecting to a NICE DCV Session using the macOS Client<a name="using-connecting-mac"></a>
+# Connecting to a NICE DCV Session Using the macOS Client<a name="using-connecting-mac"></a>
 
 **To connect to a session using the macOS client**
 
 1. Launch the macOS client\.
 
-   If you get an error stating that the application cannot be opened because it is from an unidentified developer, visit the [Safely open apps on your Mac](https://support.apple.com/en-ie/HT202491) web page for more information\.
+   If you get an error stating that the application cannot be opened because it is from an unidentified developer, see the [Safely open apps on your Mac](https://support.apple.com/en-ie/HT202491) webpage\.
 
 1. Choose **Connections Settings**, configure your proxy settings as follows, and then choose **Apply**\.
    + To avoid connecting through a proxy, choose **Connect directly**\.
    + To connect to the NICE DCV server using your preconfigured operating system proxy settings, choose **Use system proxy**\.
-   + To connect to the NICE DCV server through a specific HTTP proxy server, choose **Get through web proxy \(HTTP\)**\. Specify the proxy server's host name or IP address, and communication port\. If the HTTP proxy server requires authentication, select the **Proxy server requiring password** check box and provide your user name and password\.
-   + To connect to the NICE DCV server through a specific HTTPS proxy server, choose **Get through web proxy \(HTTPS\)**\. Specify the proxy server's host name or IP address, and communication port\. If the web proxy server requires authentication, select the **Proxy server requiring password** check box and provide your user name and password\.
+   + To connect to the NICE DCV server through a specific HTTP proxy server, choose **Get through web proxy \(HTTP\)**\. Specify the proxy server's host name or IP address, and communication port\. If the HTTP proxy server requires authentication, select the **Proxy server requiring password** check box and enter your user name and password\.
+   + To connect to the NICE DCV server through a specific HTTPS proxy server, choose **Get through web proxy \(HTTPS\)**\. Specify the proxy server's host name or IP address, and communication port\. If the web proxy server requires authentication, select the **Proxy server requiring password** check box and enter your user name and password\.
 
 1. Specify the session details in the following format:
 

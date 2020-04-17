@@ -2,7 +2,7 @@
 
 The NICE DCV Windows client is supported on Windows computers only\. The Windows client is a standalone application that runs natively on the Windows operating system\.
 
-The Windows client is available in two versions: **installable** and **portable**\. Both versions have the same minimum system requirements and offer the same features\.
+The Windows client is available in two versions: installable and portable\. Both versions have the same minimum system requirements and offer the same features\.
 
 **Contents**
 + [Requirements](#client-windows-requirements)
@@ -16,21 +16,19 @@ The Windows client is supported on 32\-bit and 64\-bit versions of the following
 + Windows 8\.1
 + Windows 10
 
-The client also requires the following additional software:
+The client requires the following additional software:
 + \.NET Framework 4\.6\.2
-+ Microsoft Visual C\+\+ Redistributable for Visual Studio 2015, 2017, and 2019\. For more information and download instructions, see the [ Microsoft Support](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) website\.
++ Microsoft Visual C\+\+ Redistributable for Visual Studio 2015, 2017, and 2019\. For more information and download instructions, see the [Microsoft Support](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) website\.
 
 The client must be able to connect to the NICE DCV server\. It must also be able to communicate over the required port \(8443 by default\)\.
 
 ## Installable Windows Client<a name="client-windows-install"></a>
 
-To use the Windows client on your computer, you must first install it\.
-
-The client can be installed using an installation wizard\. The wizard walks you through a series of steps that let you customize your client installation\. Alternatively, you can use the command line to perform an unattended installation, which uses default settings to automate the installation procedure\.
+You can use an installation wizard to install the client\. The wizard walks you through a series of steps that let you customize your client installation\. Or you can use the command line to perform an unattended installation, which uses default settings to automate the installation procedure\.
 
 **To install the Windows client using the installation wizard**
 
-1. Download the [Windows client installer](https://d1uj6qtbmh3dt5.cloudfront.net/2019.1/Clients/nice-dcv-client-Release-2019.1-7114.msi)\.
+1. Download the [Windows client installer](https://d1uj6qtbmh3dt5.cloudfront.net/2020.0/Clients/nice-dcv-client-Release-2020.0-7238.msi)\.
 
 1. Run the installer\.
 
@@ -48,23 +46,23 @@ Using specialized USB devices requires additional client and server configuratio
 
 **To install the Windows client using an unattended installation**
 
-1. Download the [Windows client installer](https://d1uj6qtbmh3dt5.cloudfront.net/2019.1/Clients/nice-dcv-client-Release-2019.1-7114.msi)\.
+1. Download the [Windows client installer](https://d1uj6qtbmh3dt5.cloudfront.net/2020.0/Clients/nice-dcv-client-Release-2020.0-7238.msi)\.
 
 1. Open a command prompt window and navigate to the folder where you downloaded the installer\.
 
 1. Run the unattended installer\.
 
    ```
-   C:\> msiexec.exe /i nice-dcv-client-Release-2019.1-7114.msi /quiet /norestart /l*v dcv_client_install_msi.log
+   C:\> msiexec.exe /i nice-dcv-client-Release-2020.0-7238.msi /quiet /norestart /l*v dcv_client_install_msi.log
    ```
 
 ## Portable Windows Client<a name="client-windows-portable"></a>
 
-The Windows client is also available in portable version\. The portable Windows client does not require installation\. This enables you to copy the client to a USB drive, and execute it directly from the USB drive using any Windows computer that meets the minimum requirements\.
+The Windows client is also available in a portable version\. The portable Windows client does not require installation\. This enables you to copy the client to a USB drive and execute it directly from the USB drive using any Windows computer that meets the minimum requirements\.
 
 **To use the portable Windows client**
 
-1. Download the portable [Windows client zip file](https://d1uj6qtbmh3dt5.cloudfront.net/2019.1/Clients/nice-dcv-client-Release-portable-2019.1-7114.zip)\.
+1. Download the portable [Windows client zip file](https://d1uj6qtbmh3dt5.cloudfront.net/2020.0/Clients/nice-dcv-client-Release-portable-2020.0-7238.zip)\.
 
 1. Extract the contents of the zip file\.
 

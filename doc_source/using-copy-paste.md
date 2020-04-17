@@ -5,16 +5,16 @@ NICE DCV lets you copy and paste text between your local computer and the NICE D
 The type of content that can be copied and pasted, and the methods for copying and pasting differ between the Windows client, web browser client, Linux client, and macOS client\.
 
 **Topics**
-+ [Windows and Linux Clients](#using-copy-paste-windows-linux)
++ [Windows, Linux, and macOS Clients](#using-copy-paste-windows-linux)
 + [Web Browser Client](#using-copy-paste-browser)
 
-## Windows and Linux Clients<a name="using-copy-paste-windows-linux"></a>
+## Windows, Linux, and macOS Clients<a name="using-copy-paste-windows-linux"></a>
 
-The Windows and Linux clients enable you to copy and paste text and images between your local computer and the NICE DCV session using the keyboard shortcuts and context \(right\-click\) menu shortcuts\.
+The Windows, Linux, and macOS clients enable you to copy and paste text and images between your local computer and the NICE DCV session using the keyboard shortcuts and context \(right\-click\) menu shortcuts\.
 
 ## Web Browser Client<a name="using-copy-paste-browser"></a>
 
-The web browser client enables you to copy and paste only text between your local computer and the NICE DCV session\. In addition, the copy and paste keyboard shortcuts and context menu shortcuts are not supported in the session\.
+The web browser client enables you to copy and paste only text between your local computer and the NICE DCV session\. The copy and paste keyboard shortcuts and context menu shortcuts are not supported in the session\.
 
 **To copy text from the session for use on your local computer**  
 In the web browser client, highlight the text to copy and choose **Clipboard**, **Copy to Local Device**\.

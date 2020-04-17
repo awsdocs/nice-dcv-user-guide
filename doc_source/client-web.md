@@ -14,15 +14,14 @@ The client is supported on the following browsers across all desktop operating s
 The web browser client is not supported on mobile operating systems, such as Google Android and Apple iOS\.
 
 The web browser must meet the following requirements: 
-+ Be able to connect to the NICE DCV server
-+ Be able to communicate over the required port \(8443 by default\)
-+ Provide support for asm\.js
-+ Have WebGL enabled
++ Be able to connect to the NICE DCV server\.
++ Be able to communicate over the required port \(8443 by default\)\.
++ Provide support for asm\.js\.
++ Have WebGL enabled\.
 
 ## Limitations<a name="client-web-limitations"></a>
 
 The web browser client has the following limitations:
-+ It supports a single monitor\.
-+ It supports a maximum resolution of 1080p\.
++ It supports up to two screens with a maximum resolution of 1920x1080\.
 + It only allows you to copy and paste text to and from your clipboard\.
 + It uses the web browser's proxy configuration\.

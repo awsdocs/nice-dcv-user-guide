@@ -5,7 +5,7 @@ After the NICE DCV session is running on the NICE DCV server, you can connect to
 If you are connecting to a console session, contact your NICE DCV server administrator to ensure that the session has been started and to confirm the server and session details\. If you are connecting to a virtual session on a Linux NICE DCV server, you might need to start your own session\. For more information, see [Starting NICE DCV Sessions](https://docs.aws.amazon.com/dcv/latest/adminguide/managing-sessions-start.html) in the *NICE DCV Administrator Guide*\.
 
 **Topics**
-+ [Connecting using the Windows Client](using-connecting-win.md)
-+ [Connecting using the Web Browser](using-connecting-browser-connect.md)
-+ [Connecting using the Linux Client](using-connecting-linux.md)
-+ [Connecting using the macOS Client](using-connecting-mac.md)
++ [Connecting Using the Windows Client](using-connecting-win.md)
++ [Connecting Using the Web Browser](using-connecting-browser-connect.md)
++ [Connecting Using the Linux Client](using-connecting-linux.md)
++ [Connecting Using the macOS Client](using-connecting-mac.md)

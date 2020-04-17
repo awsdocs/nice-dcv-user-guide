@@ -22,15 +22,13 @@ The macOS client has the following limitations:
 
 ## Installing the macOS Client<a name="client-mac-install"></a>
 
-To use the macOS client on your computer, you must first install it\.
-
 **To install the macOS client**
 
-1. Download the [macOS client installer](https://d1uj6qtbmh3dt5.cloudfront.net/2019.1/Clients/nice-dcv-viewer-2019.1.1535.dmg)\.
+1. Download the [macOS client installer](https://d1uj6qtbmh3dt5.cloudfront.net/2020.0/Clients/nice-dcv-viewer-2020.0.1710.dmg)\.
 
 1. Run the downloaded `.dmg`file\.
 
-   If you get an error stating that the application cannot be installed because it is from an unidentified developer, visit the [Safely open apps on your Mac](https://support.apple.com/en-ie/HT202491) web page for more information\.
+   If you get an error stating that the application cannot be installed because it is from an unidentified developer, see the [Safely open apps on your Mac](https://support.apple.com/en-ie/HT202491) webpage\.
 
 1. Click and drag the `DCV.app` file to the **Applications** folder\.
 
