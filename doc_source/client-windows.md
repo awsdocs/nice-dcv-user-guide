@@ -5,22 +5,8 @@ The NICE DCV Windows client is supported on Windows computers only\. The Windows
 The Windows client is available in two versions: installable and portable\. Both versions have the same minimum system requirements and offer the same features\.
 
 **Contents**
-+ [Requirements](#client-windows-requirements)
 + [Installable Windows Client](#client-windows-install)
 + [Portable Windows Client](#client-windows-portable)
-
-## Requirements<a name="client-windows-requirements"></a>
-
-The Windows client is supported on 32\-bit and 64\-bit versions of the following operating systems:
-+ Windows 7
-+ Windows 8\.1
-+ Windows 10
-
-The client requires the following additional software:
-+ \.NET Framework 4\.6\.2
-+ Microsoft Visual C\+\+ Redistributable for Visual Studio 2015, 2017, and 2019\. For more information and download instructions, see the [Microsoft Support](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) website\.
-
-The client must be able to connect to the NICE DCV server\. It must also be able to communicate over the required port \(8443 by default\)\.
 
 ## Installable Windows Client<a name="client-windows-install"></a>
 

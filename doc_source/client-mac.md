@@ -4,24 +4,6 @@ The NICE DCV macOS client is supported on Apple Mac computers only\. The macOS c
 
 The macOS client is installed using a `.dmg` software package\.
 
-**Topics**
-+ [Requirements](#client-mac-requirements)
-+ [Limitations](#client-mac-limitations)
-+ [Installing the macOS Client](#client-mac-install)
-
-## Requirements<a name="client-mac-requirements"></a>
-
-The macOS client requires macOS High Sierra or later\.
-
-The macOS client must be able to connect to the NICE DCV server\. It must also be able to communicate over the required port \(8443 by default\)\.
-
-## Limitations<a name="client-mac-limitations"></a>
-
-The macOS client has the following limitations:
-+ It does not support USB remotization\.
-
-## Installing the macOS Client<a name="client-mac-install"></a>
-
 **To install the macOS client**
 
 1. Download the [macOS client installer](https://d1uj6qtbmh3dt5.cloudfront.net/2020.0/Clients/nice-dcv-viewer-2020.0.1710.dmg)\.

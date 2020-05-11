@@ -1,29 +1,8 @@
 # Linux Client<a name="client-linux"></a>
 
-NICE DCV offers client applications that run on the following Linux operating systems:
-+ Amazon Linux 2
-+ RHEL 7\.x and CentOS 7\.x
-+ SUSE Linux Enterprise 12\.x
-+ Ubuntu 16\.04 and 18\.04
+The Linux client runs natively on the operating system and let you to connect to NICE DCV sessions hosted on Windows and Linux NICE DCV servers\.
 
-The applications run natively on the operating system and let you to connect to NICE DCV sessions hosted on Windows and Linux NICE DCV servers\.
-
-**Topics**
-+ [Requirements](#client-lin-requirements)
-+ [Limitations](#client-linux-limitations)
-+ [Installable Linux Client](#client-linux-install)
-
-## Requirements<a name="client-lin-requirements"></a>
-
-The Linux client must be able to connect to the NICE DCV server\. It must also be able to communicate over the required port \(8443 by default\)\.
-
-## Limitations<a name="client-linux-limitations"></a>
-
-The Linux client does not support USB remotization\.
-
-## Installable Linux Client<a name="client-linux-install"></a>
-
-The installable Linux client is installed on a Linux client computer using a software package\. The software package installs all required packages and their dependencies, and performs the required client configuration\.
+The Linux client is installed on a Linux client computer using a software package\. The software package installs all required packages and their dependencies, and performs the required client configuration\.
 
 **To install the Linux client**
 
@@ -48,7 +27,7 @@ The installable Linux client is installed on a Linux client computer using a sof
      ```
 
 1. Download the appropriate client software package for your operating system\.
-   + Amazon Linux 2, RHEL 7\.x, and CentOS 7\.x
+   + RHEL 7\.x and CentOS 7\.x
 
      ```
      $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2020.0/Clients/nice-dcv-viewer-2020.0.1352-1.el7.x86_64.rpm
@@ -70,7 +49,7 @@ The installable Linux client is installed on a Linux client computer using a sof
      ```
 
 1. Install the Linux client\.
-   + Amazon Linux 2, RHEL 7\.x, and CentOS 7\.x
+   + RHEL 7\.x and CentOS 7\.x
 
      ```
      $  sudo yum install nice-dcv-viewer-2020.0.1352-1.el7.x86_64.rpm
