@@ -41,6 +41,7 @@ The following table compares the features that are supported by the NICE DCV cli
 |  Stereo 2\.0 audio recording \(on Windows servers\)  | ✓ | ✓ | ✓ | ✓ | 
 |  Touchscreen  | ✓ \(Windows 8 and later\) | ✓ \* | ✗ | ✗ | 
 |  Stylus \(on Linux and Windows 10 and Server 2019 servers\)  | ✓ \(Windows 10 and later\) | ✓ \*\* | ✓ | ✗ | 
+|  Multiple monitor support  | ✓ | ✓ | ✓ | ✗ | 
 
 \* Supported with Opera, Firefox version 52 and later, and Edge version 18 and later, and Chrome version 22 and later\.
 
