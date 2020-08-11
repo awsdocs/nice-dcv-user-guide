@@ -37,10 +37,10 @@ The following table compares the features that are supported by the NICE DCV cli
 |  [USB remotization support](using-usb.md)  | ✓ \(installable client\) | ✗ | ✗ | ✗ | 
 |  [Connection file support](using-connection-file.md)  | ✓ | ✗ | ✓ | ✓ | 
 |  Stereo 2\.0 audio playback  | ✓ | ✓ | ✓ | ✓ | 
-|  Surround sound 7\.1 audio playback  | ✓ \(on Windows servers\) | ✗ | ✗ | ✗ | 
+|  Surround sound audio playback  | ✓ \(Up to 7\.1\) | ✗ | ✓ \(Up to 5\.1\) | ✗ | 
 |  Stereo 2\.0 audio recording \(on Windows servers\)  | ✓ | ✓ | ✓ | ✓ | 
-|  Touchscreen  | ✓ \(Windows 8 and later\) | ✓ \* | ✗ | ✗ | 
-|  Stylus \(on Linux and Windows 10 and Server 2019 servers\)  | ✓ \(Windows 10 and later\) | ✓ \*\* | ✓ | ✗ | 
+|  Touchscreen  | ✓ \(Windows 8 and later\) | ✓ \* | ✓ | ✗ | 
+|  Stylus \(on Linux and Windows 10 and Server 2019 servers\)  | ✓ \(Windows 10 and later\) | ✓ \*\* | ✓ | ✓ | 
 |  Multiple monitor support  | ✓ | ✓ | ✓ | ✗ | 
 
 \* Supported with Opera, Firefox version 52 and later, and Edge version 18 and later, and Chrome version 22 and later\.

@@ -6,7 +6,7 @@ The macOS client is installed using a `.dmg` software package\.
 
 **To install the macOS client**
 
-1. Download the [macOS client installer](https://d1uj6qtbmh3dt5.cloudfront.net/2020.0/Clients/nice-dcv-viewer-2020.0.1710.dmg)\.
+1. Download the [macOS client installer](https://d1uj6qtbmh3dt5.cloudfront.net/2020.1/Clients/nice-dcv-viewer-2020.1.1910.dmg)\.
 
 1. Run the downloaded `.dmg`file\.
 
