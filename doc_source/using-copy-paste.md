@@ -1,6 +1,6 @@
 # Copying and Pasting<a name="using-copy-paste"></a>
 
-NICE DCV lets you copy and paste text between your local computer and the NICE DCV session\. You must be authorized to use this feature\. If you are not authorized, the functionality is not available in the client\.
+NICE DCV lets you copy and paste text between your local computer and the NICE DCV session\. You must be authorized to use this feature\. If you are not authorized, the functionality is not available in the client\. For more information, see [Configuring NICE DCV Authorization](https://docs.aws.amazon.com/dcv/latest/adminguide/security-authorization.html) in the *NICE DCV Administrator Guide*\.
 
 The type of content that can be copied and pasted, and the methods for copying and pasting differ between the Windows client, web browser client, Linux client, and macOS client\.
 

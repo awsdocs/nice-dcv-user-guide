@@ -2,6 +2,9 @@
 
 The steps for connecting to a NICE DCV session are the same across all supported web browsers\. The client connects to the NICE DCV server using your web browser's proxy settings\. To connect using different proxy settings, see your web browser's documentation\.
 
+**Note**  
+The web browser client does not support the QUIC \(UDP\) transport protocol\.
+
 **To connect to your NICE DCV session using the web browser client**
 
 1. Open your preferred web browser and enter the NICE DCV server URL in the following format:

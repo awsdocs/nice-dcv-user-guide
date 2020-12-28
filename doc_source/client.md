@@ -20,6 +20,8 @@ For a good user experience with NICE DCV, ensure that the client computers meet 
 | **Software** |  The Native Windows client is supported on 32\-bit and 64\-bit versions of the following operating systems: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/dcv/latest/userguide/client.html) The client also requires the following additional software: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/dcv/latest/userguide/client.html)  |  The web browser client is supported on the following browsers across all desktop operating systems: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/dcv/latest/userguide/client.html) The web browser client also requires WebGL and asm\.js\. The web browser client is not supported on mobile operating systems, such as Android and iOS\.  |  The Linux client is supported on the following modern Linux operating systems: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/dcv/latest/userguide/client.html)  |  The macOS client requires macOS High Sierra or later\.  | 
 | **Network** | The client must be able to connect to the NICE DCV server, and it must be able to communicate over the required port \(8443 by default\)\. | 
 
+For more information about the NICE DCV server requirements, see [ NICE DCV server requirements](https://docs.aws.amazon.com/dcv/latest/adminguide/servers.html#requirements) in the *NICE DCV Administrator Guide*\.
+
 ## Supported Features<a name="client-features"></a>
 
 The following table compares the features that are supported by the NICE DCV clients\.
@@ -29,11 +31,12 @@ The following table compares the features that are supported by the NICE DCV cli
 | --- | --- | --- | --- | --- | 
 |  [Connect to Windows NICE DCV servers](using-connecting.md)  | ✓ | ✓ | ✓ | ✓ | 
 |  [Connect to Linux NICE DCV servers](using-connecting.md)  | ✓ | ✓ | ✓ | ✓ | 
+|  [QUIC UDP transport protocol](using-connecting.md)  | ✓ | ✗ | ✓ | ✓ | 
 |  [Manage streaming modes](using-streaming.md)  | ✓ | ✓ | ✓ | ✓ | 
 |  [Transfer files](using-transfer.md)  | ✓ | ✓ | ✓ | ✓ | 
 |  [Print from sessions](using-print.md)  | ✓ | ✓ | ✓ | ✓ | 
 |  [Copy and paste](using-copy-paste.md)  | ✓ | ✓ | ✓ | ✓ | 
-|  [Smart card support](using-smartcard.md)  | ✓ \(on Linux servers\) | ✗ | ✓ \(on Linux servers\) | ✓ \(on Linux servers\) | 
+|  [Smart card support](using-smartcard.md)  | ✓ | ✗ | ✓ | ✓ | 
 |  [USB remotization support](using-usb.md)  | ✓ \(installable client\) | ✗ | ✗ | ✗ | 
 |  [Connection file support](using-connection-file.md)  | ✓ | ✗ | ✓ | ✓ | 
 |  Stereo 2\.0 audio playback  | ✓ | ✓ | ✓ | ✓ | 
@@ -46,3 +49,5 @@ The following table compares the features that are supported by the NICE DCV cli
 \* Supported with Opera, Firefox version 52 and later, and Edge version 18 and later, and Chrome version 22 and later\.
 
 \*\* Supported on Windows 10 only, with Edge version 79 and later and Chrome\.
+
+For more information about the NICE DCV server features, see [ NICE DCV server features](https://docs.aws.amazon.com/dcv/latest/adminguide/servers.html#features) in the *NICE DCV Administrator Guide*\.

@@ -4,9 +4,11 @@ The NICE DCV macOS client is supported on Apple Mac computers only\. The macOS c
 
 The macOS client is installed using a `.dmg` software package\.
 
+For more information about connecting to a NICE DCV session using the macOS client, see [Connecting to a NICE DCV Session Using the macOS Client](using-connecting-mac.md)\.
+
 **To install the macOS client**
 
-1. Download the [macOS client installer](https://d1uj6qtbmh3dt5.cloudfront.net/2020.1/Clients/nice-dcv-viewer-2020.1.1910.dmg)\.
+1. Download the [macOS client installer](https://d1uj6qtbmh3dt5.cloudfront.net/2020.2/Clients/nice-dcv-viewer-2020.2.2117.dmg)\.
 
 1. Run the downloaded `.dmg`file\.
 

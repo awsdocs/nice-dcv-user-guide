@@ -11,6 +11,11 @@
    + To connect to the NICE DCV server using your preconfigured operating system proxy settings, choose **Use system proxy**\.
    + To connect to the NICE DCV server through a specific HTTP proxy server, choose **Get through web proxy \(HTTP\)**\. Specify the proxy server's host name or IP address, and communication port\. If the HTTP proxy server requires authentication, select the **Proxy server requiring password** check box and enter your user name and password\.
    + To connect to the NICE DCV server through a specific HTTPS proxy server, choose **Get through web proxy \(HTTPS\)**\. Specify the proxy server's host name or IP address, and communication port\. If the web proxy server requires authentication, select the **Proxy server requiring password** check box and enter your user name and password\.
+   + To use the QUIC transport protocol \(which is based on UDP\) for data transport, choose the **Advanced** tab, and then choose **QUIC \(with Datagram Extension**\)\.
+
+     If you choose QUIC, authentication traffic is still transported over the WebSocket \(TCP\) port\. By default, both QUIC and WebSocket traffic is transported over port 8443\. If your administrator configured the NICE DCV server to use different ports, specify the ports to use\.
+
+     You can only use QUIC if it has been enabled on the server\. For more information, see [ Enable the QUIC UDP transport protocol](https://docs.aws.amazon.com/dcv/latest/adminguide/enable-quic.html) in the *NICE DCV Administrator Guide*\.
 
 1. Specify the session details in the following format:
 

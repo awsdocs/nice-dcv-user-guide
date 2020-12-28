@@ -4,11 +4,11 @@ NICE DCV enables you to print content from a NICE DCV session hosted on a Window
 + If you're using the Windows client, you can print to the physcial printer connected to your client computer, or you can print to a `.PDF` document using the NICE DCV virtual printer\.
 + If you're using the Linux or macOS client, you can print to a `.PDF` document using the NICE DCV virtual printer\.
 + If you're using the web browser client with Google Chrome, Mozilla Firefox, or Apple Safari, you can print to a `.PDF` document using the NICE DCV virtual printer\.
-+ If you're using the web browser client with Microsoft Edge or Internet Explorer, you can print to a `.XPF` document using the NICE DCV virtual printer\.
++ If you're using the web browser client with Microsoft Edge or Internet Explorer, you can print to a `.XPS` document using the NICE DCV virtual printer\.
 
 When you print to the NICE DCV vritual printer, the content is exported to a printable file\. You can download it to your local computer using the client and then print it using your local printer\.
 
-You must be authorized to use this feature\. If you are not authorized, the functionality is not available in the client\.
+You must be authorized to use this feature\. If you are not authorized, the functionality is not available in the client\. For more information, see [Configuring NICE DCV Authorization](https://docs.aws.amazon.com/dcv/latest/adminguide/security-authorization.html) in the *NICE DCV Administrator Guide*\.
 
 **To print content from the session**
 

@@ -116,6 +116,9 @@ The following table lists the parameters that can be specified in the `[connect]
 | proxyport | Integer |  | The port to be used if connecting through a proxy server\. | 
 | proxyuser | String |  | The user name to be used for proxy authentication\. | 
 | proxypassword | String |  | The password to be used for proxy authentication\. The password is not encrypted\. | 
+| transport | String | websocket | The protocol to use for data transport\. Specify websocket to use the WebSocket \(TCP\) protocol for data transport, or specify quic to use the QUIC \(UDP\) protocol for data transport\. If you enable QUIC, the QUIC protocol is used for data transport and WebSocket is used for authentication traffic\. If you enable WebSocket, the WebSocket protocol is used for both data transport and authentication traffic\. | 
+| webport | Integer | 8443 | The port to use for WebSocket \(TCP\) traffic\. | 
+| quicport | Integer | 8443 | The port to use for QUIC \(UDP\) traffic\. | 
 
 ### `[options]` Parameters<a name="param-option"></a>
 

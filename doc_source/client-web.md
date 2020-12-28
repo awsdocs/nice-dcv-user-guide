@@ -1,6 +1,13 @@
 # Web Browser Client<a name="client-web"></a>
 
-The NICE DCV web browser client is a web application that runs inside a web browser\. It does not require installation\. 
+The NICE DCV web browser client runs inside a web browser\. It does not require installation\. The web browser client is supported on the following browsers across all desktop operating systems:
++ Firefox
++ Chrome
++ Edge
++ Internet Explorer 11
++ Safari 11
+
+For more information about connecting to a NICE DCV session using the web browser client, see [Connecting to a NICE DCV Session Using the Web Browser](using-connecting-browser-connect.md)\.
 
 **Limitations**  
 The web browser client has the following limitations:
