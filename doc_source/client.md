@@ -17,7 +17,7 @@ For a good user experience with NICE DCV, ensure that the client computers meet 
 
 |  | Native Windows client | Web browser client | Linux client | macOS client | 
 | --- | --- | --- | --- | --- | 
-| **Software** |  The Native Windows client is supported on 32\-bit and 64\-bit versions of the following operating systems: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/dcv/latest/userguide/client.html) The client also requires the following additional software: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/dcv/latest/userguide/client.html)  |  The web browser client is supported on the following browsers across all desktop operating systems: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/dcv/latest/userguide/client.html) The web browser client also requires WebGL and asm\.js\. The web browser client is not supported on mobile operating systems, such as Android and iOS\.  |  The Linux client is supported on the following modern Linux operating systems: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/dcv/latest/userguide/client.html)  |  The macOS client requires macOS High Sierra or later\.  | 
+| **Software** |  The Native Windows client is supported on 32\-bit and 64\-bit versions of the following operating systems: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/dcv/latest/userguide/client.html) The client also requires the following additional software: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/dcv/latest/userguide/client.html)  |  The web browser client is supported on the following browsers across all desktop operating systems: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/dcv/latest/userguide/client.html) The web browser client also requires WebGL and asm\.js\. The web browser client is not supported on mobile operating systems, such as Android and iOS\.  |  The Linux client is supported on the following modern Linux operating systems: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/dcv/latest/userguide/client.html)  |  macOS clients with Intel processors require macOS Mojave \(10\.14\) or later\. macOS clients with Apple M1 processors require macOS Big Sur \(11\)\.  | 
 | **Network** | The client must be able to connect to the NICE DCV server, and it must be able to communicate over the required port \(8443 by default\)\. | 
 
 For more information about the NICE DCV server requirements, see [ NICE DCV server requirements](https://docs.aws.amazon.com/dcv/latest/adminguide/servers.html#requirements) in the *NICE DCV Administrator Guide*\.
@@ -34,7 +34,7 @@ The following table compares the features that are supported by the NICE DCV cli
 |  [QUIC UDP transport protocol](using-connecting.md)  | ✓ | ✗ | ✓ | ✓ | 
 |  [Manage streaming modes](using-streaming.md)  | ✓ | ✓ | ✓ | ✓ | 
 |  [Transfer files](using-transfer.md)  | ✓ | ✓ | ✓ | ✓ | 
-|  [Print from sessions](using-print.md)  | ✓ | ✓ | ✓ | ✓ | 
+|  [Print from sessions](using-print.md)  | ✓ | ✓ 1 | ✓ 1 | ✓ 1 | 
 |  [Copy and paste](using-copy-paste.md)  | ✓ | ✓ | ✓ | ✓ | 
 |  [Smart card support](using-smartcard.md)  | ✓ | ✗ | ✓ | ✓ | 
 |  [USB remotization support](using-usb.md)  | ✓ \(installable client\) | ✗ | ✗ | ✗ | 
@@ -42,12 +42,17 @@ The following table compares the features that are supported by the NICE DCV cli
 |  Stereo 2\.0 audio playback  | ✓ | ✓ | ✓ | ✓ | 
 |  Surround sound audio playback  | ✓ \(Up to 7\.1\) | ✗ | ✓ \(Up to 5\.1\) | ✗ | 
 |  Stereo 2\.0 audio recording \(on Windows servers\)  | ✓ | ✓ | ✓ | ✓ | 
-|  Touchscreen  | ✓ \(Windows 8 and later\) | ✓ \* | ✓ | ✗ | 
-|  Stylus \(on Linux and Windows 10 and Server 2019 servers\)  | ✓ \(Windows 10 and later\) | ✓ \*\* | ✓ | ✓ | 
-|  Multiple monitor support  | ✓ | ✓ | ✓ | ✗ | 
+|  Touchscreen  | ✓ \(Windows 8\.1 and later\) | ✓ 2 | ✓ | ✗ | 
+|  Stylus \(on Linux and Windows 10 and Server 2019 servers\)  | ✓ \(Windows 10 and later\) | ✓ 3 | ✓ | ✓ | 
+|  [Multiple monitor support](using-multiple-screens.md)  | ✓ | ✓ | ✓ | ✓ | 
+|  [Webcam support](using-webcam.md)  | ✓ | ✓ 4 | ✓ | ✓ | 
 
-\* Supported with Opera, Firefox version 52 and later, and Edge version 18 and later, and Chrome version 22 and later\.
+1 These clients support printing to a file only\. They do not support printing to a local printer\.
 
-\*\* Supported on Windows 10 only, with Edge version 79 and later and Chrome\.
+2 Supported with Opera, Firefox version 52 and later, and Edge version 18 and later, and Google Chrome version 22 and later\.
+
+3 Supported with Chromium\-based browsers only, such as Google Chrome and Microsoft Edge version 79 and later\. Tilt and pressure events are not supported with other browsers\.
+
+4 Supported with Chromium\-based browsers only, such as Google Chrome and Microsoft Edge\.
 
 For more information about the NICE DCV server features, see [ NICE DCV server features](https://docs.aws.amazon.com/dcv/latest/adminguide/servers.html#features) in the *NICE DCV Administrator Guide*\.

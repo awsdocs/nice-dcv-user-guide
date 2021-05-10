@@ -8,7 +8,9 @@ For more information about connecting to a NICE DCV session using the macOS clie
 
 **To install the macOS client**
 
-1. Download the [macOS client installer](https://d1uj6qtbmh3dt5.cloudfront.net/2020.2/Clients/nice-dcv-viewer-2020.2.2117.dmg)\.
+1. Download the correct macOS client installer depending on your client computer\.
+   + [macOS client for Intel processors](https://d1uj6qtbmh3dt5.cloudfront.net/2021.0/Clients/nice-dcv-viewer-2021.0.3186.x86_64.dmg)
+   + [macOS clients for Apple M1 processors](https://d1uj6qtbmh3dt5.cloudfront.net/2021.0/Clients/nice-dcv-viewer-2021.0.3186.arm64.dmg)
 
 1. Run the downloaded `.dmg`file\.
 

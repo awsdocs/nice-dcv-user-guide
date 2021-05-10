@@ -23,7 +23,7 @@ You must be authorized to use this feature\. If you are not authorized, the func
 
 1. \(Optional\) To have the NICE DCV server cache smart card data, enable the smart card caching feature\. Smart card caching is disabled by default\. With smart card caching enabled, the server caches the results of recent calls to the client's smart card\. This helps to reduce the amount of traffic that is transferred between the client and the server and improves performance\.
 
-   You cannot enable smart card caching if it is permanently disabled on the server\. For more information, see [Configuring Smart Card Caching](https://docs.aws.amazon.com/dcv/latest/adminguide/enable-smart-card.html) in the *NICE DCV Administrator Guide*\. 
+   You cannot enable smart card caching if it is permanently disabled on the server\. For more information, see [Configuring Smart Card Caching](https://docs.aws.amazon.com/dcv/latest/adminguide/manage-smart-card.html) in the *NICE DCV Administrator Guide*\. 
 
    To enable smart card caching, you need to set and export the `DCV_PCSC_ENABLE_CACHE` environment variable\. In the session, open a terminal window and run the following command:
    + Windows server

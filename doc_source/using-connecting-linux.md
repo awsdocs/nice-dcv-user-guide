@@ -11,11 +11,13 @@ The steps for connecting to a NICE DCV session are the same across all Linux cli
    + To connect to the NICE DCV server using your preconfigured operating system proxy settings, choose **Use system proxy**\.
    + To connect to the NICE DCV server through a specific HTTP proxy server, choose **Get through web proxy \(HTTP\)**\. Specify the proxy server's hostname or IP address, and communication port\. If the HTTP proxy server requires authentication, select the **Proxy server requiring password** check box and enter your user name and password\.
    + To connect to the NICE DCV server through a specific HTTPS proxy server, choose **Get through web proxy \(HTTPS\)**\. Specify the proxy server's hostname or IP address, and communication port\. If the web proxy server requires authentication, select the **Proxy server requiring password** check box and enter your user name and password\.
-   + To use the QUIC transport protocol \(which is based on UDP\) for data transport, choose the **Advanced** tab, and then choose **QUIC \(with Datagram Extension**\)\.
+   + To select the transport protocol to use for data transport, choose the **Protocol** tab\. By default, the client is set to automatically use the QUIC protocol \(based on UDP\) for data transport if it is available\. If it is not available, the client uses the WebSocket protocol \(based on TCP\), which is always available\.
 
-     If you choose QUIC, authentication traffic is still transported over the WebSocket \(TCP\) port\. By default, both QUIC and WebSocket traffic is transported over port 8443\. If your administrator configured the NICE DCV server to use different ports, specify the ports to use\.
+     QUIC is available only if the NICE DCV server is configured to support it, and if your network configuration supports UDP communication between the NICE DCV client and the NICE DCV server\. Additionally, it is only supported for direct client\-server communication where there are no intermediate proxies, gateways, or load balancers\.
 
-     You can only use QUIC if it has been enabled on the server\. For more information, see [ Enable the QUIC UDP transport protocol](https://docs.aws.amazon.com/dcv/latest/adminguide/enable-quic.html) in the *NICE DCV Administrator Guide*\.
+     You can force the client to use a data transport protocol by explicitly selecting it\. To verify which protocol is in use, check the Streaming Modes dialog\. Additionally, if the QUIC protocol is in use, "QUIC" appears in the titlebar\.
+
+     For more information, see [ Enable the QUIC UDP transport protocol](https://docs.aws.amazon.com/dcv/latest/adminguide/enable-quic.html) in the *NICE DCV Administrator Guide*\.
 
 1. Specify the session details in the following format:
 

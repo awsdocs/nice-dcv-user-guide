@@ -32,62 +32,62 @@ For more information about connecting to a NICE DCV session using the Linux clie
    + RHEL 7\.x and CentOS 7\.x
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2020.2/Clients/nice-dcv-viewer-2020.2.3007-1.el7.x86_64.rpm
+     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2021.0/Clients/nice-dcv-viewer-2021.0.3294-1.el7.x86_64.rpm
      ```
    + RHEL 8\.x and CentOS 8\.x
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2020.2/Clients/nice-dcv-viewer-2020.2.3007-1.el8.x86_64.rpm
+     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2021.0/Clients/nice-dcv-viewer-2021.0.3294-1.el8.x86_64.rpm
      ```
    + Ubuntu 16\.04
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2020.2/Clients/nice-dcv-viewer_2020.2.3007-1_amd64.ubuntu1604.deb
+     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2021.0/Clients/nice-dcv-viewer_2021.0.3294-1_amd64.ubuntu1604.deb
      ```
    + Ubuntu 18\.04
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2020.2/Clients/nice-dcv-viewer_2020.2.3007-1_amd64.ubuntu1804.deb
+     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2021.0/Clients/nice-dcv-viewer_2021.0.3294-1_amd64.ubuntu1804.deb
      ```
    + Ubuntu 20\.04
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2020.2/Clients/nice-dcv-viewer_2020.2.3007-1_amd64.ubuntu2004.deb
+     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2021.0/Clients/nice-dcv-viewer_2021.0.3294-1_amd64.ubuntu2004.deb
      ```
    + SUSE Linux Enterprise 15
 
      ```
-     $  curl-O https://d1uj6qtbmh3dt5.cloudfront.net/2020.2/Clients/nice-dcv-viewer-2020.2.3007-1.sles15.x86_64.rpm
+     $  curl-O https://d1uj6qtbmh3dt5.cloudfront.net/2021.0/Clients/nice-dcv-viewer-2021.0.3294-1.sles15.x86_64.rpm
      ```
 
 1. Install the Linux client\.
    + RHEL 7\.x and CentOS 7\.x
 
      ```
-     $  sudo yum install nice-dcv-viewer-2020.2.3007-1.el7.x86_64.rpm
+     $  sudo yum install nice-dcv-viewer-2021.0.3294-1.el7.x86_64.rpm
      ```
    + RHEL 8\.x and CentOS 8\.x
 
      ```
-     $  sudo yum install nice-dcv-viewer-2020.2.3007-1.el8.x86_64.rpm
+     $  sudo yum install nice-dcv-viewer-2021.0.3294-1.el8.x86_64.rpm
      ```
    + Ubuntu 16\.04
 
      ```
-     $  sudo dpkg --install nice-dcv-viewer_2020.2.3007-1_amd64.ubuntu1604.deb
+     $  sudo dpkg --install nice-dcv-viewer_2021.0.3294-1_amd64.ubuntu1604.deb
      ```
    + Ubuntu 18\.04
 
      ```
-     $  sudo dpkg --install nice-dcv-viewer_2020.2.3007-1_amd64.ubuntu1804.deb
+     $  sudo dpkg --install nice-dcv-viewer_2021.0.3294-1_amd64.ubuntu1804.deb
      ```
    + Ubuntu 20\.04
 
      ```
-     $  sudo dpkg --install nice-dcv-viewer_2020.2.3007-1_amd64.ubuntu2004.deb
+     $  sudo dpkg --install nice-dcv-viewer_2021.0.3294-1_amd64.ubuntu2004.deb
      ```
    + SUSE Linux Enterprise 15
 
      ```
-     $  sudo zypper install nice-dcv-viewer-2020.2.3007-1.sles15.x86_64.rpm
+     $  sudo zypper install nice-dcv-viewer-2021.0.3294-1.sles15.x86_64.rpm
      ```
