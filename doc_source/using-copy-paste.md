@@ -10,7 +10,7 @@ The type of content that can be copied and pasted, and the methods for copying a
 
 ## Windows, Linux, and macOS Clients<a name="using-copy-paste-windows-linux"></a>
 
-The Windows, Linux, and macOS clients enable you to copy and paste text and images between your local computer and the NICE DCV session using the keyboard shortcuts and context \(right\-click\) menu shortcuts\.
+The Windows, Linux, and macOS clients enable you to copy and paste text and images between your local computer and the NICE DCV session using the keyboard shortcuts and context \(right\-click\) menu shortcuts\. If you are unable to copy and paste, contact your NICE DCV server administrator to ensure that the permissions are properly configured\.
 
 ## Web Browser Client<a name="using-copy-paste-browser"></a>
 

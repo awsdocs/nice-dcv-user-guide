@@ -12,4 +12,5 @@ After you have chosen your preferred NICE DCV client, you can use it to connect 
 + [Using Multiple Screens](using-multiple-screens.md)
 + [Using USB Remotization](using-usb.md)
 + [Using a Webcam](using-webcam.md)
++ [Using accurate Audio/Video synchronization](using-av-sync.md)
 + [Using a Connection File](using-connection-file.md)

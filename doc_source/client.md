@@ -41,7 +41,7 @@ The following table compares the features that are supported by the NICE DCV cli
 |  [Connection file support](using-connection-file.md)  | ✓ | ✗ | ✓ | ✓ | 
 |  Stereo 2\.0 audio playback  | ✓ | ✓ | ✓ | ✓ | 
 |  Surround sound audio playback  | ✓ \(Up to 7\.1\) | ✗ | ✓ \(Up to 5\.1\) | ✗ | 
-|  Stereo 2\.0 audio recording \(on Windows servers\)  | ✓ | ✓ | ✓ | ✓ | 
+|  Stereo 2\.0 audio recording  | ✓ | ✓ | ✓ | ✓ | 
 |  Touchscreen  | ✓ \(Windows 8\.1 and later\) | ✓ 2 | ✓ | ✗ | 
 |  Stylus \(on Linux and Windows 10 and Server 2019 servers\)  | ✓ \(Windows 10 and later\) | ✓ 3 | ✓ | ✓ | 
 |  [Multiple monitor support](using-multiple-screens.md)  | ✓ | ✓ | ✓ | ✓ | 
@@ -49,7 +49,7 @@ The following table compares the features that are supported by the NICE DCV cli
 
 1 These clients support printing to a file only\. They do not support printing to a local printer\.
 
-2 Supported with Opera, Firefox version 52 and later, and Edge version 18 and later, and Google Chrome version 22 and later\.
+2 Supported with Firefox, Edge, and Google Chrome\.
 
 3 Supported with Chromium\-based browsers only, such as Google Chrome and Microsoft Edge version 79 and later\. Tilt and pressure events are not supported with other browsers\.
 

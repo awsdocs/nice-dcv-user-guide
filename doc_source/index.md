@@ -34,5 +34,6 @@ Amazon's trademarks and trade dress may not be used in
    + [Using Multiple Screens](using-multiple-screens.md)
    + [Using USB Remotization](using-usb.md)
    + [Using a Webcam](using-webcam.md)
+   + [Using accurate Audio/Video synchronization](using-av-sync.md)
    + [Using a Connection File](using-connection-file.md)
 + [Release Notes and Document History for NICE DCV](doc-history-release-notes.md)
