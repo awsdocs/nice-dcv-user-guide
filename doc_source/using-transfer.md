@@ -1,19 +1,19 @@
-# Transferring Files<a name="using-transfer"></a>
+# Transferring files<a name="using-transfer"></a>
 
-NICE DCV enables you to upload files to and download files from NICE DCV session storage\. For more information about enabling and configuring session storage, see [Enabling Session Storage](https://docs.aws.amazon.com/dcv/latest/adminguide/manage-storage.html) in the *NICE DCV Administrator Guide*\.
+You can use NICE DCV to upload files to and download files from NICE DCV session storage\. For instructions on how to enable and configure session storage, see [Enabling Session Storage](https://docs.aws.amazon.com/dcv/latest/adminguide/manage-storage.html) in the *NICE DCV Administrator Guide*\.
 
 You must be authorized to use this feature\. If you are not authorized, the functionality is not available in the client\. For more information, see [Configuring NICE DCV Authorization](https://docs.aws.amazon.com/dcv/latest/adminguide/security-authorization.html) in the *NICE DCV Administrator Guide*\.
 
-This functionality is available on the Windows, web browser, Linux and macOS clients\. The steps for uploading, downloading, and renaming files are similar on all clients\.
+This functionality is available on the Windows, web browser, Linux, and macOS clients\. The steps for uploading, downloading, and renaming files are similar on all clients\.
 
 **Topics**
-+ [Downloading a File](#using-transfer-download)
-+ [Uploading a File](#using-transfer-upload)
-+ [Renaming a File](#using-transfer-rename)
++ [Downloading a file](#using-transfer-download)
++ [Uploading a file](#using-transfer-upload)
++ [Renaming a file](#using-transfer-rename)
 
-## Downloading a File<a name="using-transfer-download"></a>
+## Downloading a file<a name="using-transfer-download"></a>
 
-If you are using the Windows client, the file is downloaded to your desktop\. If you are using the Linux, macOS, or web browser client, the file is downloaded to your default Downloads folder\.
+If you're using the Windows client, the file is downloaded to your desktop\. If you're using the Linux, macOS, or web browser client, the file is downloaded to your default Downloads folder\.
 
 **To download a file from the session storage to your computer**
 
@@ -22,9 +22,9 @@ If you are using the Windows client, the file is downloaded to your desktop\. If
 
 1. In the **File Storage** window, either select the file to download, or choose the down arrow next to the file and then choose **Download**\.
 
-## Uploading a File<a name="using-transfer-upload"></a>
+## Uploading a file<a name="using-transfer-upload"></a>
 
-Files that you upload to a session are saved to a path that is specified by the NICE DCV server administrator\. 
+Files that you upload to a session are saved to a path that's specified by the NICE DCV server administrator\. 
 
 **To upload a file from your computer to the session storage**
 
@@ -34,7 +34,7 @@ Files that you upload to a session are saved to a path that is specified by the 
 
 1. In the **File Storage** window, choose **Upload File**, browse to and select the file to upload, and then choose **Open**\.
 
-## Renaming a File<a name="using-transfer-rename"></a>
+## Renaming a file<a name="using-transfer-rename"></a>
 
 You can change the name of the file in session storage\.
 
@@ -42,6 +42,6 @@ You can change the name of the file in session storage\.
 
 1. In the client, choose **Storage**\.
 
-1. Choose the down arrow next to the file to rename and choose **Rename**\.
+1. Choose the down arrow that's next to the file to rename, and choose **Rename**\.
 
 1. Enter the new file name and press **Enter**\.

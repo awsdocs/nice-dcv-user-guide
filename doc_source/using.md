@@ -1,16 +1,17 @@
 # Using NICE DCV<a name="using"></a>
 
-After you have chosen your preferred NICE DCV client, you can use it to connect to and interact with a NICE DCV session\.
+After you choose a NICE DCV client, you can use it to connect to and interact with a NICE DCV session\.
 
 **Topics**
-+ [Connecting to a Session](using-connecting.md)
-+ [Managing Streaming Modes](using-streaming.md)
-+ [Transferring Files](using-transfer.md)
++ [Connecting to a session](using-connecting.md)
++ [Managing streaming modes](using-streaming.md)
++ [Transferring files](using-transfer.md)
 + [Printing](using-print.md)
-+ [Copying and Pasting](using-copy-paste.md)
-+ [Using a Smart Card](using-smartcard.md)
-+ [Using Multiple Screens](using-multiple-screens.md)
-+ [Using USB Remotization](using-usb.md)
-+ [Using a Webcam](using-webcam.md)
-+ [Using accurate Audio/Video synchronization](using-av-sync.md)
-+ [Using a Connection File](using-connection-file.md)
++ [Copying and pasting](using-copy-paste.md)
++ [Using a smart card](using-smartcard.md)
++ [Saving a screenshot](saving-a-screenshot.md)
++ [Using multiple screens](using-multiple-screens.md)
++ [Using USB remotization](using-usb.md)
++ [Using a webcam](using-webcam.md)
++ [Using accurate audio/video synchronization](using-av-sync.md)
++ [Using a connection file](using-connection-file.md)

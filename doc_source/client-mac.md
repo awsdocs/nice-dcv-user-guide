@@ -4,17 +4,17 @@ The NICE DCV macOS client is supported on Apple Mac computers only\. The macOS c
 
 The macOS client is installed using a `.dmg` software package\.
 
-For more information about connecting to a NICE DCV session using the macOS client, see [Connecting to a NICE DCV Session Using the macOS Client](using-connecting-mac.md)\.
+For instructions on how to connect to a NICE DCV session using the macOS client, see [Connecting to a NICE DCV session using the macOS client](using-connecting-mac.md)\.
 
 **To install the macOS client**
 
 1. Download the correct macOS client installer depending on your client computer\.
-   + [macOS client for Intel processors](https://d1uj6qtbmh3dt5.cloudfront.net/2021.1/Clients/nice-dcv-viewer-2021.1.3473.x86_64.dmg)
-   + [macOS clients for Apple M1 processors](https://d1uj6qtbmh3dt5.cloudfront.net/2021.1/Clients/nice-dcv-viewer-2021.1.3473.arm64.dmg)
+   + [macOS client for Intel processors](https://d1uj6qtbmh3dt5.cloudfront.net/2021.2/Clients/nice-dcv-viewer-2021.2.3690.x86_64.dmg)
+   + [macOS clients for Apple M1 processors](https://d1uj6qtbmh3dt5.cloudfront.net/2021.2/Clients/nice-dcv-viewer-2021.2.3690.arm64.dmg)
 
-1. Run the downloaded `.dmg`file\.
+1. Run the downloaded `.dmg` file\.
 
-   If you get an error stating that the application cannot be installed because it is from an unidentified developer, see the [Safely open apps on your Mac](https://support.apple.com/en-ie/HT202491) webpage\.
+   If you get an error stating that the application can't be installed because it's from an unidentified developer, see the [Safely open apps on your Mac](https://support.apple.com/en-ie/HT202491) webpage\.
 
 1. Click and drag the `DCV.app` file to the **Applications** folder\.
 

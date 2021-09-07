@@ -1,6 +1,6 @@
-# Using accurate Audio/Video synchronization<a name="using-av-sync"></a>
+# Using accurate audio/video synchronization<a name="using-av-sync"></a>
 
- The **Accurate Audio/Video synchronization** setting enables a mode which minimizes the time difference in audio and video playback\. This mode improves “lip sync” and thus is useful in workloads that require accurate synchronization between the video frame currently displayed and the audio played at the same instant\. This feature may introduce a lag in the perceived responsiveness of the remote system\. 
+ The **Accurate Audio/Video synchronization** setting enables a mode that minimizes the time difference in audio and video playback\. This mode improves “lip sync\.”\. This mode is useful in workloads that require the video and audio accurately synchronized\. This feature might introduce a lag in the perceived responsiveness of the remote system\. 
 
  Accurate Audio/Video Synchronization functionality is supported on all native clients\. 
 
@@ -14,8 +14,8 @@
    + Windows, and Linux clients
 
      Choose **Settings**, **Accurate Audio/Video Synchronization**  
-![\[Audio/Video Settings button located at the botton of the Settings menu.\]](http://docs.aws.amazon.com/dcv/latest/userguide/images/av-sync-setting-windows-client.png)
+![\[Audio/Video Settings button that's located at the botton of the Settings menu.\]](http://docs.aws.amazon.com/dcv/latest/userguide/images/av-sync-setting-windows-client.png)
    + macOS client
 
      Choose **Connection**, **Accurate Audio/Video Synchronization**  
-![\[Audio/Video Settings button located at the botton of the Settings menu.\]](http://docs.aws.amazon.com/dcv/latest/userguide/images/av-sync-setting-macos-client.png)
+![\[Audio/Video Settings button that's located at the botton of the Settings menu.\]](http://docs.aws.amazon.com/dcv/latest/userguide/images/av-sync-setting-macos-client.png)

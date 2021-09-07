@@ -1,7 +1,7 @@
 # Printing<a name="using-print"></a>
 
-NICE DCV enables you to print content from a NICE DCV session hosted on a Windows NICE DCV server only\. The available printing devices depend on the client you're using\.
-+ **Windows client** — You can print to the physical printer connected to your client computer, or you can print to a `.PDF` document using the NICE DCV virtual printer\.
+You can use NICE DCV to print content from a NICE DCV session that's hosted on a Windows NICE DCV server only\. The available printing devices depend on the client that you're using\.
++ **Windows client** — You can print to the physical printer that's connected to your client computer\. Or, you can print to a `.PDF` document that uses the NICE DCV virtual printer\.
 + **Linux client** and **macOS client** — You can print to a `.PDF` document using the NICE DCV virtual printer\.
 + **Web browser client**
   + Google Chrome, Mozilla Firefox, or Apple Safari — You can print to a `.PDF` document using the NICE DCV virtual printer\.
@@ -21,8 +21,8 @@ You must be authorized to use this feature\. If you are not authorized, the func
    + \(Windows client connected to Linux server only\) ***<local\-printer\-name>*\-DCV\-Redirected\-*<connection\-id>*** — Prints to the local printer
 
 1. If you print to the NICE DCV virtual printer, a notification appears when the file is ready for download\. In the top\-right corner, choose **Notifications**, locate the Print notification in the list, and then choose **Download**\.
-   + If you are using the web browser client, after the download has completed, choose **Show in folder**\.
-   + If you are using the Windows client, the printer dialog is automatically opened when the file is downloaded\.
-   + If you are using the Linux or macOS clients, the downloaded file is automatically opened with the default associated application\.
+   + If you're using the web browser client, after the download has completed, choose **Show in folder**\.
+   + If you're using the Windows client, the printer dialog is automatically opened when the file is downloaded\.
+   + If you're using the Linux or macOS clients, the downloaded file is automatically opened with the default associated application\.
 **Note**  
-The file is deleted from the NICE DCV server after you have downloaded it, and it is no longer available for download\.
+The file is deleted from the NICE DCV server after you have downloaded it, and it's no longer available for download\.

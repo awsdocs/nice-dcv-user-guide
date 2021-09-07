@@ -10,20 +10,20 @@ To use NICE DCV, install the NICE DCV server software on a server\. The NICE DCV
 
 ## Step 1: Get the NICE DCV Session Information<a name="getting-started-session"></a>
 
-After the NICE DCV session is running on the NICE DCV server, you must have specific information to be able to connect to it\. Contact your NICE DCV administrator if you do not have the following information:
-+ The NICE DCV server's IP address or host name
-+ The port over which the NICE DCV server is configured to communicate\. Port 8443 is the default port used by the NICE DCV server\.
+After the NICE DCV session is running on the NICE DCV server, you must have specific information to connect to it\. Contact your NICE DCV administrator if you don't have the following information:
++ The IP address or host name of the NICE DCV server
++ The port that the NICE DCV server is configured to communicate over\. By default, port 8443 is used by the NICE DCV server\.
 + The session ID
 + A user name and password to connect to the NICE DCV host server
 
 ## Step 2: Choose a NICE DCV Client<a name="getting-started-choose"></a>
 
 Next, choose the NICE DCV client that best meets your needs\. NICE DCV offers the following clients: 
-+ A native Windows client
++ A Windows client
 + A web browser client
 + A Linux client
 + A macOS client
 
 For more information about the available clients, see [NICE DCV Clients](client.md)\.
 
-After you have chosen your preferred NICE DCV client, you can use it to connect to, and interact with the NICE DCV session\. For more information about using the NICE DCV clients to interact with sessions, see [Using NICE DCV](using.md)\.
+After you choose aNICE DCV client, you can use it to connect to, and interact with the NICE DCV session\. For more information about using the NICE DCV clients to interact with sessions, see [Using NICE DCV](using.md)\.
