@@ -24,6 +24,6 @@ Next, choose the NICE DCV client that best meets your needs\. NICE DCV offers th
 + A Linux client
 + A macOS client
 
-For more information about the available clients, see [NICE DCV Clients](client.md)\.
+For more information about the available clients, see [NICE DCV clients](client.md)\.
 
 After you choose aNICE DCV client, you can use it to connect to, and interact with the NICE DCV session\. For more information about using the NICE DCV clients to interact with sessions, see [Using NICE DCV](using.md)\.

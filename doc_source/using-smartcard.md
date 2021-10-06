@@ -2,7 +2,7 @@
 
 You can use NICE DCV to use one or more smart cards that's connected to your client computer\. You can do this using the standard Personal Computer/Smart Card \(PC/SC\) interface, in a NICE DCV session\. For each session, only one connected client can connect a smart card at a time\. This is especially important in environments where multiple clients connect to the same session\.
 
-Smart card access is supported with the Windows, Linux, and macOS clients only\. It's not supported with the web browser client\.
+Smart card access is supported only with the Windows, Linux, and macOS clients\. It's not supported with the web browser client\.
 
 You must be authorized to use this feature\. If you are not authorized, the functionality is not available in the client\. For more information, see [Configuring NICE DCV Authorization](https://docs.aws.amazon.com/dcv/latest/adminguide/security-authorization.html) in the *NICE DCV Administrator Guide*\.
 

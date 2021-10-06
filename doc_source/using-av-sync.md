@@ -1,6 +1,6 @@
 # Using accurate audio/video synchronization<a name="using-av-sync"></a>
 
- The **Accurate Audio/Video synchronization** setting enables a mode that minimizes the time difference in audio and video playback\. This mode improves “lip sync\.”\. This mode is useful in workloads that require the video and audio accurately synchronized\. This feature might introduce a lag in the perceived responsiveness of the remote system\. 
+ The **Accurate Audio/Video synchronization** setting enables a mode that minimizes the time difference in audio and video playback\. This mode improves lip sync\. This mode is useful in workloads that require the video and audio to be accurately synchronized\. This feature might introduce a lag in the perceived responsiveness of the remote system\. 
 
  Accurate Audio/Video Synchronization functionality is supported on all native clients\. 
 

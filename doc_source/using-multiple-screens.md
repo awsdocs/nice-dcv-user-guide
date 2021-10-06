@@ -2,7 +2,7 @@
 
 You can use the NICE DCV clients to extend the display for a session across multiple screens\.
 
-With the Windows, Linux, and macOS clients, the extended display matches your physical display layout and screen resolutions\. For example, assume that you have three screens connected to your local computer\. In this case, the server extends the display for a session across all three screens and matches the specific screen resolutions of your displays\.
+With the Windows, Linux, and macOS clients, the extended display matches your physical display layout and screen resolutions\. For example, assume that you have three screens connected to your local computer\. The server extends the display for a session across all three screens and matches the specific screen resolutions of your displays\.
 
 With the web browser client, the session display can be extended to up to two screens with 1920x1080 screen resolution\. When the display is extended, the additional screen is opened in a new browser window\. The second extends the display to the right of the original screen\. Ensure that you position the screens accordingly\.
 

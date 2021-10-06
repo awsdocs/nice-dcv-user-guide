@@ -1,4 +1,4 @@
-# Linux Client<a name="client-linux"></a>
+# Linux client<a name="client-linux"></a>
 
 The Linux client runs natively on the operating system\. You can use it to connect to NICE DCV sessions that are hosted on Windows and Linux NICE DCV servers\.
 
@@ -28,66 +28,31 @@ For instructions on how to connect to a NICE DCV session using the Linux client,
      $ sudo apt-key add NICE-GPG-KEY
      ```
 
-1. Download the appropriate client software package for your target operating system\.
+1. Download the appropriate client software package for your target operating system from [https://download.nice-dcv.com/latest.html](https://download.nice-dcv.com/latest.html)\.
+
+1. Install the Linux client\. Enter the filename of the downloaded file to complete the following command\.
    + RHEL 7\.x and CentOS 7\.x
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2021.2/Clients/nice-dcv-viewer-2021.2.3690-1.el7.x86_64.rpm
+     $  sudo yum install the downloaded .rpm file
      ```
    + RHEL 8\.x and CentOS 8\.x
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2021.2/Clients/nice-dcv-viewer-2021.2.3690-1.el8.x86_64.rpm
-     ```
-   + Ubuntu 16\.04
-
-     ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2021.2/Clients/nice-dcv-viewer_2021.2.3690-1_amd64.ubuntu1604.deb
+     $  sudo yum install the downloaded .rpm file
      ```
    + Ubuntu 18\.04
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2021.2/Clients/nice-dcv-viewer_2021.2.3690-1_amd64.ubuntu1804.deb
+     $  sudo dpkg --install the downloaded .deb file
      ```
    + Ubuntu 20\.04
 
      ```
-     $  wget https://d1uj6qtbmh3dt5.cloudfront.net/2021.2/Clients/nice-dcv-viewer_2021.2.3690-1_amd64.ubuntu2004.deb
+     $  sudo dpkg --install the downloaded .deb file
      ```
    + SUSE Linux Enterprise 15
 
      ```
-     $  curl-O https://d1uj6qtbmh3dt5.cloudfront.net/2021.2/Clients/nice-dcv-viewer-2021.2.3690-1.sles15.x86_64.rpm
-     ```
-
-1. Install the Linux client\.
-   + RHEL 7\.x and CentOS 7\.x
-
-     ```
-     $  sudo yum install nice-dcv-viewer-2021.2.3690-1.el7.x86_64.rpm
-     ```
-   + RHEL 8\.x and CentOS 8\.x
-
-     ```
-     $  sudo yum install nice-dcv-viewer-2021.2.3690-1.el8.x86_64.rpm
-     ```
-   + Ubuntu 16\.04
-
-     ```
-     $  sudo dpkg --install nice-dcv-viewer_2021.2.3690-1_amd64.ubuntu1604.deb
-     ```
-   + Ubuntu 18\.04
-
-     ```
-     $  sudo dpkg --install nice-dcv-viewer_2021.2.3690-1_amd64.ubuntu1804.deb
-     ```
-   + Ubuntu 20\.04
-
-     ```
-     $  sudo dpkg --install nice-dcv-viewer_2021.2.3690-1_amd64.ubuntu2004.deb
-     ```
-   + SUSE Linux Enterprise 15
-
-     ```
-     $  sudo zypper install nice-dcv-viewer-2021.2.3690-1.sles15.x86_64.rpm
+     $  sudo zypper install the downloaded .rpm file
      ```

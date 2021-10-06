@@ -1,18 +1,18 @@
-# NICE DCV Clients<a name="client"></a>
+# NICE DCV clients<a name="client"></a>
 
 NICE DCV offers a Windows client, Linux client, web browser client, and macOS client\. The clients offer similar feature sets, but there are some differences\. Choose the NICE DCV client that meets your specific requirements\.
 
 **Topics**
 + [Requirements](#requirements)
-+ [Supported Features](#client-features)
-+ [Windows Client](client-windows.md)
-+ [Web Browser Client](client-web.md)
-+ [Linux Client](client-linux.md)
-+ [macOS Client](client-mac.md)
++ [Supported features](#client-features)
++ [Windows client](client-windows.md)
++ [Web browser client](client-web.md)
++ [Linux client](client-linux.md)
++ [macOS client](client-mac.md)
 
 ## Requirements<a name="requirements"></a>
 
-To use NICE DCV, ensure that the client computers meet the following minimum requirements\. Keep in mind that your experience is dependent on the number of pixels that are streamed from the NICE DCV server to the NICE DCV client\.
+To use NICE DCV, ensure that the client computers meet the following minimum requirements\. Bear in mind that your experience is dependent on the number of pixels that are streamed from the NICE DCV server to the NICE DCV client\.
 
 
 |  | Windows client | Web browser client | Linux client | macOS client | 
@@ -22,7 +22,7 @@ To use NICE DCV, ensure that the client computers meet the following minimum req
 
 For more information about the NICE DCV server requirements, see [ NICE DCV server requirements](https://docs.aws.amazon.com/dcv/latest/adminguide/servers.html#requirements) in the *NICE DCV Administrator Guide*\.
 
-## Supported Features<a name="client-features"></a>
+## Supported features<a name="client-features"></a>
 
 The following table compares the features that are supported by the NICE DCV clients\.
 
@@ -40,10 +40,10 @@ The following table compares the features that are supported by the NICE DCV cli
 |  [USB remotization support](using-usb.md)  | ✓ \(installable client\) | ✗ | ✗ | ✗ | 
 |  [Connection file support](using-connection-file.md)  | ✓ | ✗ | ✓ | ✓ | 
 |  Stereo 2\.0 audio playback  | ✓ | ✓ | ✓ | ✓ | 
-|  Surround sound audio playback  | ✓ \(Up to 7\.1\) | ✗ | ✓ \(Up to 5\.1\) | ✗ | 
+|  Surround sound audio playback  | ✓ \(up to 7\.1\) | ✗ | ✓ \(up to 5\.1\) | ✗ | 
 |  Stereo 2\.0 audio recording  | ✓ | ✓ | ✓ | ✓ | 
-|  Touchscreen  | ✓ \(Windows 8\.1 and later\) | ✓ 2 | ✓ | ✗ | 
-|  Stylus \(on Linux and Windows 10 and Server 2019 servers\)  | ✓ \(Windows 10 and later\) | ✓ 3 | ✓ | ✓ | 
+|  Touchscreen support  | ✓ \(Windows 8\.1 and later\) | ✓ 2 | ✓ | ✗ | 
+|  Stylus support \(on Linux and Windows 10 and Server 2019 servers\)  | ✓ \(Windows 10 and later\) | ✓ 3 | ✓ | ✓ | 
 |  [Multiple monitor support](using-multiple-screens.md)  | ✓ | ✓ | ✓ | ✓ | 
 |  [Webcam support](using-webcam.md)  | ✓ | ✓ 4 | ✓ | ✓ | 
 

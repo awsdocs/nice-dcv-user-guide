@@ -15,11 +15,11 @@ Amazon's trademarks and trade dress may not be used in
 -----
 ## Contents
 + [Getting Started with NICE DCV](getting-started.md)
-+ [NICE DCV Clients](client.md)
-   + [Windows Client](client-windows.md)
-   + [Web Browser Client](client-web.md)
-   + [Linux Client](client-linux.md)
-   + [macOS Client](client-mac.md)
++ [NICE DCV clients](client.md)
+   + [Windows client](client-windows.md)
+   + [Web browser client](client-web.md)
+   + [Linux client](client-linux.md)
+   + [macOS client](client-mac.md)
 + [Using NICE DCV](using.md)
    + [Connecting to a NICE DCV session](using-connecting.md)
       + [Connecting to a NICE DCV session using the Windows client](using-connecting-win.md)
@@ -39,4 +39,4 @@ Amazon's trademarks and trade dress may not be used in
    + [Using a connection file](using-connection-file.md)
 + [Troubleshooting NICE DCV](troubleshooting.md)
    + [Using the Log Files](troubleshooting-logs.md)
-+ [Release Notes and Document History for NICE DCV](doc-history-release-notes.md)
++ [Release notes and document history for NICE DCV](doc-history-release-notes.md)

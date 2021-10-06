@@ -9,11 +9,11 @@ USB remotization is only supported in the installable Windows client\. It isn't 
 
 By default, the most commonly used USB devices are supported\. For these devices, you can connect them to your computer and use them on the server without any additional configuration required\. To use a USB device, connect it to your computer\. In the client, choose **Settings**, and then move the slider next to the USB device in the list\.
 
-However, some specialized USB devices aren't supported in the default configuration\. Unsupported devices don't appear in the **Settings** menu after they're connected\. These devices must be added to the USB device *allow list* on the NICE DCV server before they can be used\. After they'readded to the allow list, they appear in the **Settings** menu in the client\.
+However, some specialized USB devices aren't supported in the default configuration\. Unsupported devices don't appear in the **Settings** menu after they're connected\. These devices must be added to the USB device *allow list* on the NICE DCV server before they can be used\. After they're added to the allow list, they appear in the **Settings** menu in the client\.
 
 **To use a device that must be added to the allow list on the NICE DCV server**
 
-1. Ensure that you installed the latest version of the Windows client and that you opted to install the USB remotization drivers\. For more information, see [Installable Windows Client](client-windows.md#client-windows-install)\.
+1. Ensure that you installed the latest version of the Windows client and that you opted to install the USB remotization drivers\. For more information, see [Installable Windows client](client-windows.md#client-windows-install)\.
 
 1. Ensure that the USB device is connected to your computer and that you installed the required hardware drivers\.
 

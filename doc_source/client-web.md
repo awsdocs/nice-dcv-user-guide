@@ -1,4 +1,4 @@
-# Web Browser Client<a name="client-web"></a>
+# Web browser client<a name="client-web"></a>
 
 The NICE DCV web browser client runs inside a web browser\. You don't need to install the web client\. The web browser client is supported on the following browsers across all major desktop operating systems \(including Windows, macOS, and Linux\):
 + Firefox
@@ -7,15 +7,17 @@ The NICE DCV web browser client runs inside a web browser\. You don't need to in
 + Internet Explorer 11
 + Safari 11
 
+For instructions on how to connect to a NICE DCV session using the web browser client, see [Connecting to a NICE DCV session using the web browser](using-connecting-browser-connect.md)\.
+
 **WebCodecs**  
-The web browser client can leverage WebCodecs to use video decoders that are already present in the browser\. This can improve frame rate, because packets can be decoded by components of the browser\.
+The web browser client can use WebCodecs to use video decoders that are already present in the browser\. This can improve frame rate, because packets can be decoded by components of the browser\.
 
 The use of WebCodecs is available on the following browsers:
 + Google Chrome version 86 and later
 + Microsoft Edge version 86 and later
 + Opera version 72 and later
 
-All major operating systems are supported, inluding Windows, macOS, and Linux\.
+All major operating systems are supported\. This includes Windows, macOS, and Linux\.
 
 **Note**  
 WebCodecs is an experimental API and is not standardized\. To use WebCodecs, you must enable experimental features\. Open your browser from the command line by entering the executable file for your browser and the following command to enable WebCodecs on your browser:  

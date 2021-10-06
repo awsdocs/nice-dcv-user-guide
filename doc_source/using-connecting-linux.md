@@ -37,4 +37,4 @@ The steps for connecting to a NICE DCV session are the same across all Linux cli
 **Note**  
 By default, the connection is terminated after three unsuccessful login attempts\. To try again, restart the connection\.
 
-1. If you are prompted to verify the certificate on the server, confirm the fingerprint of the certificate with your NICE DCV administrator\. If the fingerprint is valid, choose **Trust & Connect**\.
+1. If you're prompted to verify the certificate on the server, confirm the fingerprint of the certificate with your NICE DCV administrator\. If the fingerprint is valid, choose **Trust & Connect**\.
