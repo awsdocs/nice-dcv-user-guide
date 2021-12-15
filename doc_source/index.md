@@ -37,6 +37,7 @@ Amazon's trademarks and trade dress may not be used in
    + [Using a webcam](using-webcam.md)
    + [Using accurate audio/video synchronization](using-av-sync.md)
    + [Using a connection file](using-connection-file.md)
+   + [Set certificate validation policy](set-certificate-validation-policy.md)
 + [Troubleshooting NICE DCV](troubleshooting.md)
    + [Using the Log Files](troubleshooting-logs.md)
 + [Release notes and document history for NICE DCV](doc-history-release-notes.md)

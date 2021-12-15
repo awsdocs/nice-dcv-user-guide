@@ -15,3 +15,4 @@ After you choose a NICE DCV client, you can use it to connect to and interact wi
 + [Using a webcam](using-webcam.md)
 + [Using accurate audio/video synchronization](using-av-sync.md)
 + [Using a connection file](using-connection-file.md)
++ [Setting certificate validation](set-certificate-validation-policy.md)

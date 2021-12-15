@@ -28,7 +28,9 @@ For instructions on how to connect to a NICE DCV session using the Linux client,
      $ sudo apt-key add NICE-GPG-KEY
      ```
 
-1. Download the appropriate client software package for your target operating system from [https://download.nice-dcv.com/latest.html](https://download.nice-dcv.com/latest.html)\.
+1. Download the appropriate client software package for your target operating system from the [NICE DCV](http://download.nice-dcv.com) website\.
+**Tip**  
+The [latest packages](http://download.nice-dcv.com/latest.html) page of the download website contains links that always point to the newest available version\. You can use these links to automatically retrieve the newest NICE DCV packages\.
 
 1. Install the Linux client\. Enter the filename of the downloaded file to complete the following command\.
    + RHEL 7\.x and CentOS 7\.x
