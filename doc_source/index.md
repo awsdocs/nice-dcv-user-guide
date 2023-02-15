@@ -1,4 +1,4 @@
-# EnginFrame Administrator Guide 
+# NICE DCV User Guide
 
 -----
 *****Copyright &copy; Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
@@ -13,30 +13,41 @@ owners, who may or may not be affiliated with, connected to, or
 sponsored by Amazon.
 
 -----
-
-
------
 ## Contents
-+ [Welcome](chapter-welcome.md)
-+ [Getting started](getting-started.md)
-   + [About NICE EnginFrame](about.md)
-   + [Obtaining NICE EnginFrame](obtaining.md)
-   + [Planning a NICE EnginFrame deployment](planning-deployment.md)
-   + [Installing NICE EnginFrame](section-installation.md)
-   + [Running NICE EnginFrame](running.md)
-+ [Administration](admin.md)
-   + [Common administration tasks](common-admin-tasks.md)
-   + [Managing spoolers](managing-spoolers.md)
-   + [Managing the sessions directory](managing-sessions.md)
-   + [NICE DCV Session Manager](dcv-session-manager.md)
-   + [Managing AWS HPC Connector](managing-hpc-connector.md)
-   + [Customizing logging](logging.md)
-   + [EnginFrame licenses](licenses.md)
-   + [Troubleshooting](chapter-troubleshooting.md)
-   + [Pushing metrics to external monitoring tools](pushing-metrics.md)
-+ [Security](part-security-aspects.md)
-   + [Authentication framework](chapter-authentication.md)
-   + [Authorization system](chapter-authorization.md)
-   + [Configuring HTTPS](http-ssl.md)
-   + [Configuring SSL/TLS for Hazelcast](ssl-tls-hazelcast.md)
-+ [Document history](document_history_md.md)
++ [Getting Started with NICE DCV](getting-started.md)
++ [NICE DCV clients](client.md)
+   + [Windows client](client-windows.md)
+   + [Web browser client](client-web.md)
+   + [Linux client](client-linux.md)
+   + [macOS client](client-mac.md)
++ [Using NICE DCV](using.md)
+   + [Connecting to a NICE DCV session](using-connecting.md)
+      + [Connecting to a NICE DCV session using the Windows client](using-connecting-win.md)
+      + [Connecting to a NICE DCV session using the web browser client](using-connecting-browser-connect.md)
+      + [Connecting to a NICE DCV session using the Linux client](using-connecting-linux.md)
+      + [Connecting to a NICE DCV session using the macOS client](using-connecting-mac.md)
+   + [Changing display resolution](changing-resolution.md)
+   + [Setting the time zone](setting-timezone.md)
+   + [Managing streaming modes](using-streaming.md)
+      + [Streaming modes on Windows, Linux, and macOS clients](using-streaming-native.md)
+      + [Streaming modes on Web browser client](using-streaming-web.md)
+   + [Transferring files](using-transfer.md)
+      + [Transferring files using Windows, Linux and macOs clients](using-transfer-native.md)
+      + [Transferring files using web browser](using-transfer-web.md)
+   + [Printing](using-print.md)
+   + [Copying and pasting](using-copy-paste.md)
+   + [Using a smart card](using-smartcard.md)
+   + [Saving a screenshot](saving-a-screenshot.md)
+   + [Collaborating on a NICE DCV session](managing-sessions-session-collaboration.md)
+   + [Using multiple monitors](using-multiple-screens.md)
+   + [Using USB remotization](using-usb.md)
+   + [Using a webcam](using-webcam.md)
+      + [Using a webcam on Windows, Linux and macOS clients](using-webcam-native.md)
+      + [Using a webcam on the web browser client](using-webcam-web.md)
+   + [Using accurate audio/video synchronization](using-av-sync.md)
+   + [Using high color accuracy](using-high-color-accuracy.md)
+   + [Using a connection file](using-connection-file.md)
+   + [Set certificate validation policy](set-certificate-validation-policy.md)
++ [Troubleshooting NICE DCV](troubleshooting.md)
+   + [Using the Log Files](troubleshooting-logs.md)
++ [Release notes and document history for NICE DCV](doc-history-release-notes.md)
