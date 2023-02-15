@@ -1,43 +1,42 @@
-# NICE DCV User Guide
+# EnginFrame Administrator Guide 
 
 -----
 *****Copyright &copy; Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
 
 -----
-Amazon's trademarks and trade dress may not be used in 
-     connection with any product or service that is not Amazon's, 
-     in any manner that is likely to cause confusion among customers, 
-     or in any manner that disparages or discredits Amazon. All other 
-     trademarks not owned by Amazon are the property of their respective
-     owners, who may or may not be affiliated with, connected to, or 
-     sponsored by Amazon.
+Amazon's trademarks and trade dress may not be used in
+connection with any product or service that is not Amazon's,
+in any manner that is likely to cause confusion among customers,
+or in any manner that disparages or discredits Amazon. All other
+trademarks not owned by Amazon are the property of their respective
+owners, who may or may not be affiliated with, connected to, or
+sponsored by Amazon.
+
+-----
+
 
 -----
 ## Contents
-+ [Getting Started with NICE DCV](getting-started.md)
-+ [NICE DCV clients](client.md)
-   + [Windows client](client-windows.md)
-   + [Web browser client](client-web.md)
-   + [Linux client](client-linux.md)
-   + [macOS client](client-mac.md)
-+ [Using NICE DCV](using.md)
-   + [Connecting to a NICE DCV session](using-connecting.md)
-      + [Connecting to a NICE DCV session using the Windows client](using-connecting-win.md)
-      + [Connecting to a NICE DCV session using the web browser](using-connecting-browser-connect.md)
-      + [Connecting to a NICE DCV session using the Linux client](using-connecting-linux.md)
-      + [Connecting to a NICE DCV session using the macOS client](using-connecting-mac.md)
-   + [Managing streaming modes](using-streaming.md)
-   + [Transferring files](using-transfer.md)
-   + [Printing](using-print.md)
-   + [Copying and pasting](using-copy-paste.md)
-   + [Using a smart card](using-smartcard.md)
-   + [Saving a screenshot](saving-a-screenshot.md)
-   + [Using multiple screens](using-multiple-screens.md)
-   + [Using USB remotization](using-usb.md)
-   + [Using a webcam](using-webcam.md)
-   + [Using accurate audio/video synchronization](using-av-sync.md)
-   + [Using a connection file](using-connection-file.md)
-   + [Set certificate validation policy](set-certificate-validation-policy.md)
-+ [Troubleshooting NICE DCV](troubleshooting.md)
-   + [Using the Log Files](troubleshooting-logs.md)
-+ [Release notes and document history for NICE DCV](doc-history-release-notes.md)
++ [Welcome](chapter-welcome.md)
++ [Getting started](getting-started.md)
+   + [About NICE EnginFrame](about.md)
+   + [Obtaining NICE EnginFrame](obtaining.md)
+   + [Planning a NICE EnginFrame deployment](planning-deployment.md)
+   + [Installing NICE EnginFrame](section-installation.md)
+   + [Running NICE EnginFrame](running.md)
++ [Administration](admin.md)
+   + [Common administration tasks](common-admin-tasks.md)
+   + [Managing spoolers](managing-spoolers.md)
+   + [Managing the sessions directory](managing-sessions.md)
+   + [NICE DCV Session Manager](dcv-session-manager.md)
+   + [Managing AWS HPC Connector](managing-hpc-connector.md)
+   + [Customizing logging](logging.md)
+   + [EnginFrame licenses](licenses.md)
+   + [Troubleshooting](chapter-troubleshooting.md)
+   + [Pushing metrics to external monitoring tools](pushing-metrics.md)
++ [Security](part-security-aspects.md)
+   + [Authentication framework](chapter-authentication.md)
+   + [Authorization system](chapter-authorization.md)
+   + [Configuring HTTPS](http-ssl.md)
+   + [Configuring SSL/TLS for Hazelcast](ssl-tls-hazelcast.md)
++ [Document history](document_history_md.md)
