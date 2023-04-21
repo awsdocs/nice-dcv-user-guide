@@ -1,8 +1,5 @@
 # Setting the time zone<a name="setting-timezone"></a>
 
-**Note**  
-This feature is currently for Windows server based sessions only\.
-
 DCV allows you to set the time zone for your session to display either the time zone you are currently or the time zone of where the remote desktop you are using is located\.
 
 This is referred to as time zone redirection\.

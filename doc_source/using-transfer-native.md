@@ -17,13 +17,39 @@ If you're using the Windows client, the file is downloaded to your desktop\. If 
 
 Files that you upload to a session are saved to a path that's specified by the NICE DCV server administrator\. 
 
-**To upload a file from your computer to the session storage**
+**To upload a file from your computer to the NICE DCV session storage**
 
-1. In the client, choose **Storage**\.
+1. Choose **Storage** in the client\.
 
-1. \(Optional\) To upload the file to a new folder, choose **Create Folder**, enter a folder name, and then open the folder\. 
+1. Do one of the following:
+   + To upload the file to an existing folder:
 
-1. In the **File Storage** window, choose **Upload File**, browse to and select the file to upload, and then choose **Open**\.
+     Navigate to the folder within the **File Storage** window\.
+   + To upload the file to a new folder
+
+     1. Choose **Create Folder**\.
+
+     1. Enter folder name\.
+
+     1. Open the new folder\.
+
+1. Choose **Upload File** in the **File Storage** window\.
+
+1. Select the file to upload\.
+
+1. Choose **Open**\.
+
+**To drag and drop a file from your computer to the NICE DCV session storage**
+
+1. Navigate to **File Storage**, the folder, or the subfolder you would like to upload the file and open it\.
+
+1. On your local computer, select one or more files or folders you would like to upload\.
+
+1. Drag the selected file\(s\) or folder\(s\) onto the NICE DCV session window\.
+**Note**  
+ If the **File Storage** window is closed, it will automatically open\.
+
+1. Drop your files within the drop area of your desired location in **File Storage**, selected folder, or selected subfolder window\.
 
 ## Renaming a file<a name="using-transfer-rename-native"></a>
 

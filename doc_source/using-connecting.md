@@ -9,3 +9,4 @@ If you're connecting to a console session, contact your NICE DCV server administ
 + [Connecting using the web browser client](using-connecting-browser-connect.md)
 + [Connecting using the Linux client](using-connecting-linux.md)
 + [Connecting using the macOS client](using-connecting-mac.md)
++ [Connecting using URI](using-connecting-uri.md)

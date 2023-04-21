@@ -6,7 +6,7 @@ NICE DCV users can collaborate on the same session, enabling screen and mouse sh
 
 By default, the only user that can connect to a DCV session is the owner of that session\.
 
-For users to collaborate on the same session, the active permissions applied to the session need to be updated to include the `unsupervised-access` parameter\. For more information on editing the permissions file, see [ Configuring NICE DCV authorization](https://docs.aws.amazon.com/dcv/latest/adminguide/security-authorization.html)\.
+For users to collaborate on the same session, the active permissions applied to the session need to be updated to include the `display` parameter\. For more information on editing the permissions file, see [ Configuring NICE DCV authorization](https://docs.aws.amazon.com/dcv/latest/adminguide/security-authorization.html)\.
 
 **Note**  
 Administrator privileges are required to edit the permissions file\.
